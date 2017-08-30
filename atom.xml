@@ -4,25 +4,95 @@
   <subtitle>越简单越快乐，越努力越幸运...</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://shijiajie.com/"/>
-  <updated>2017-05-01T16:07:36.000Z</updated>
-  <id>http://shijiajie.com/</id>
+  <link href="http://shisb.com/"/>
+  <updated>2017-08-30T14:31:47.000Z</updated>
+  <id>http://shisb.com/</id>
   
   <author>
     <name>劼哥stone</name>
-    <email>stone0090@hotmail.com</email>
+    <email>stone0090@126.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>微信公众号：从国企到阿里的面试经历（一）</title>
-    <link href="http://shijiajie.com/2017/05/01/wechat-url-001/"/>
-    <id>http://shijiajie.com/2017/05/01/wechat-url-001/</id>
-    <published>2017-05-01T15:00:00.000Z</published>
-    <updated>2017-05-01T16:07:36.000Z</updated>
+    <title>微信公众号：想提高团队技术，来试试这个套路！</title>
+    <link href="http://shisb.com/2017/07/25/wechat-url-003/"/>
+    <id>http://shisb.com/2017/07/25/wechat-url-003/</id>
+    <published>2017-07-25T15:00:00.000Z</published>
+    <updated>2017-08-30T14:31:47.000Z</updated>
     
-    <content type="html"><![CDATA[<p>首先，跟大家说声抱歉，年后实在是太忙，一不小心就断更了 4 个月。从今天开始，我尽量坚持月更，分享最干的干货给大家。第一篇，从国企到阿里的面试经历（一）。</p>
+    <content type="html"><![CDATA[<p>读完本文约 3 分钟。</p>
+<p>我加入阿里影业 3 个月，成功转为正式员工。新的开始，leader 给我新的要求，让我给组里的同学们带带节奏，帮助大家提高技术水平。</p>
+<p>正好我最近参加了大胡子的游戏空间交流会，学习到游戏规则设计的要点，便结合实际情况制定了「技术提高三部曲」，希望能给大家带来启发。</p>
+<a id="more"></a> 
+<script>
+  location.href = "https://mp.weixin.qq.com/s?__biz=MzIyNjE0MzU1OQ==&mid=2650101232&idx=1&sn=feaae7a1ff2438b3eea8818a306bd35c&chksm=f07509d8c70280ce5442b3c4c0fb083547e322944e315121f56df51d45b3e42211045a226c8e#rd";
+</script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;读完本文约 3 分钟。&lt;/p&gt;
+&lt;p&gt;我加入阿里影业 3 个月，成功转为正式员工。新的开始，leader 给我新的要求，让我给组里的同学们带带节奏，帮助大家提高技术水平。&lt;/p&gt;
+&lt;p&gt;正好我最近参加了大胡子的游戏空间交流会，学习到游戏规则设计的要点，便结合实际情况制定了「技术提高三部曲」，希望能给大家带来启发。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term=".NET" scheme="http://shisb.com/categories/NET/"/>
+    
+    
+      <category term="微信公众号" scheme="http://shisb.com/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+    
+      <category term="阿里影业" scheme="http://shisb.com/tags/%E9%98%BF%E9%87%8C%E5%BD%B1%E4%B8%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信公众号：从国企到阿里的面试经历（二）</title>
+    <link href="http://shisb.com/2017/06/24/wechat-url-002/"/>
+    <id>http://shisb.com/2017/06/24/wechat-url-002/</id>
+    <published>2017-06-24T15:00:00.000Z</published>
+    <updated>2017-08-30T14:31:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>读完本文需要 3 分钟。</p>
+<p>安逸舒适是一种生活态度，挑战自己是另一种生活态度，我躁动不安的性格注定会选第二条路。突破舒适区，才有可能改变，能不能变得好，就交由给老天爷来决定。</p>
+<p>「一入阿里深似海，从此家人是路人」这句话真不假，任务多得做不完，承受的压力也比较大，特别感谢一直支持鼓励我的家人，是你们给予我源源不断的动力。</p>
+<p>比较遗憾的是没时间写博客了555。不过，时间就像乳沟，挤挤还是会有的。这不，真的挤出来一篇，接上篇 从国企到阿里的面试经历（一），各位朋友趁热看~</p>
+<a id="more"></a> 
+<script>
+  location.href = "https://mp.weixin.qq.com/s?__biz=MzIyNjE0MzU1OQ==&mid=2650101229&idx=1&sn=1e6ab19ce22cd53d0b6ec7bd19ca9cd4&chksm=f07509c5c70280d3e5330cea947e224c36792903c77303e617ef75e90c585000e4b098e0d338#rd";
+</script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;读完本文需要 3 分钟。&lt;/p&gt;
+&lt;p&gt;安逸舒适是一种生活态度，挑战自己是另一种生活态度，我躁动不安的性格注定会选第二条路。突破舒适区，才有可能改变，能不能变得好，就交由给老天爷来决定。&lt;/p&gt;
+&lt;p&gt;「一入阿里深似海，从此家人是路人」这句话真不假，任务多得做不完，承受的压力也比较大，特别感谢一直支持鼓励我的家人，是你们给予我源源不断的动力。&lt;/p&gt;
+&lt;p&gt;比较遗憾的是没时间写博客了555。不过，时间就像乳沟，挤挤还是会有的。这不，真的挤出来一篇，接上篇 从国企到阿里的面试经历（一），各位朋友趁热看~&lt;/p&gt;
+    
+    </summary>
+    
+      <category term=".NET" scheme="http://shisb.com/categories/NET/"/>
+    
+    
+      <category term="微信公众号" scheme="http://shisb.com/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+    
+      <category term="阿里影业" scheme="http://shisb.com/tags/%E9%98%BF%E9%87%8C%E5%BD%B1%E4%B8%9A/"/>
+    
+      <category term="面试" scheme="http://shisb.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信公众号：从国企到阿里的面试经历（一）</title>
+    <link href="http://shisb.com/2017/05/01/wechat-url-001/"/>
+    <id>http://shisb.com/2017/05/01/wechat-url-001/</id>
+    <published>2017-05-01T15:00:00.000Z</published>
+    <updated>2017-08-30T14:31:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>读完本文需要 3 分钟。</p>
+<p>首先，跟大家说声抱歉，年后实在是太忙，带娃、录视频、换工作，大堆事情挤在一起，一不小心就断更了 4 个月，实在是对不起一直以来支持我的朋友们。</p>
+<p>从今天开始，我尽量坚持月更，分享最干的干货给大家，老斯基又要开始飙车了，请坐稳！！！（其实我的内心是想周更的，但阿里工作实在太忙，连月更都挤不出时间，好在加班使我快乐，555）</p>
 <a id="more"></a> 
 <script>
   location.href = "https://mp.weixin.qq.com/s?__biz=MzIyNjE0MzU1OQ==&mid=2650101224&idx=1&sn=1fb7f3268e34d7983fb57ab2a1e0eb31&chksm=f07509c0c70280d68a91622bf445c85ed7f331cc3dccf054626cb9c863f00fcaeed2e11e91bd#rd";
@@ -30,27 +100,29 @@
     
     <summary type="html">
     
-      &lt;p&gt;首先，跟大家说声抱歉，年后实在是太忙，一不小心就断更了 4 个月。从今天开始，我尽量坚持月更，分享最干的干货给大家。第一篇，从国企到阿里的面试经历（一）。&lt;/p&gt;
+      &lt;p&gt;读完本文需要 3 分钟。&lt;/p&gt;
+&lt;p&gt;首先，跟大家说声抱歉，年后实在是太忙，带娃、录视频、换工作，大堆事情挤在一起，一不小心就断更了 4 个月，实在是对不起一直以来支持我的朋友们。&lt;/p&gt;
+&lt;p&gt;从今天开始，我尽量坚持月更，分享最干的干货给大家，老斯基又要开始飙车了，请坐稳！！！（其实我的内心是想周更的，但阿里工作实在太忙，连月更都挤不出时间，好在加班使我快乐，555）&lt;/p&gt;
     
     </summary>
     
-      <category term=".NET" scheme="http://shijiajie.com/categories/NET/"/>
+      <category term=".NET" scheme="http://shisb.com/categories/NET/"/>
     
     
-      <category term="微信公众号" scheme="http://shijiajie.com/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+      <category term="微信公众号" scheme="http://shisb.com/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
     
-      <category term="阿里影业" scheme="http://shijiajie.com/tags/%E9%98%BF%E9%87%8C%E5%BD%B1%E4%B8%9A/"/>
+      <category term="阿里影业" scheme="http://shisb.com/tags/%E9%98%BF%E9%87%8C%E5%BD%B1%E4%B8%9A/"/>
     
-      <category term="面试" scheme="http://shijiajie.com/tags/%E9%9D%A2%E8%AF%95/"/>
+      <category term="面试" scheme="http://shisb.com/tags/%E9%9D%A2%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之垃圾回收和内存管理</title>
-    <link href="http://shijiajie.com/2016/12/29/javascript-lesson-2.6-GC&amp;MemoryManagement/"/>
-    <id>http://shijiajie.com/2016/12/29/javascript-lesson-2.6-GC&amp;MemoryManagement/</id>
+    <link href="http://shisb.com/2016/12/29/javascript-lesson-2.6-GC&amp;MemoryManagement/"/>
+    <id>http://shisb.com/2016/12/29/javascript-lesson-2.6-GC&amp;MemoryManagement/</id>
     <published>2016-12-29T13:00:00.000Z</published>
-    <updated>2017-05-01T16:08:16.000Z</updated>
+    <updated>2017-08-30T14:26:24.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="垃圾回收和内存管理"><a href="#垃圾回收和内存管理" class="headerlink" title="垃圾回收和内存管理"></a>垃圾回收和内存管理</h1><p>JavaScript 具有自动垃圾收集机制（GC：Garbage Collecation），也就是说，执行环境会负责管理代码执行过程中使用的内存。而在 C 和 C++ 之类的语言中，开发人员的一项基本任务就是手工跟踪内存的使用情况，这是造成许多问题的一个根源。</p>
 <p>在编写 JavaScript 程序时，开发人员不用再关心内存使用问题，所需内存的分配以及无用内存的回收完全实现了自动管理。这种垃圾收集机制的原理其实很简单：<strong>找出那些不再继续使用的变量，然后释放其占用的内存。</strong>为此，垃圾收集器会按照固定的时间间隔（或代码执行中预定的收集时间），周期性地执行这一操作。</p>
@@ -95,9 +167,9 @@
 <h2 id="垃圾回收的优化策略"><a href="#垃圾回收的优化策略" class="headerlink" title="垃圾回收的优化策略"></a>垃圾回收的优化策略</h2><p>和其他语言一样，JavaScript 的垃圾回收策略也无法避免一个问题：垃圾回收时，会停止响应其他操作，这是为了安全考虑。而 JavaScript 的垃圾回收在 100ms 甚至以上，对一般的应用还好，但对于 JavaScript 游戏和动画，这种对连贯性要求比较高的应用，就麻烦了。这就是新引擎需要优化的点：避免垃圾回收造成的长时间停止响应。</p>
 <p>David 大叔主要介绍了2个优化方案，而这也是最主要的2个优化方案了： </p>
 <h3 id="分代回收（Generation-GC）"><a href="#分代回收（Generation-GC）" class="headerlink" title="分代回收（Generation GC）"></a>分代回收（Generation GC）</h3><p>这个和 Java 回收策略思想是一致的。目的是通过区分「临时」与「持久」对象；多回收「临时对象区」（young generation），少回收「持久对象区」（tenured generation），减少每次需遍历的对象，从而减少每次GC的耗时。<strong>Chrome 浏览器所使用的 V8 引擎就是采用的分代回收策略。</strong>如图： </p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-lesson/2.6-GC&amp;MemoryManagement/WechatIMG124.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-lesson/2.6-GC&amp;MemoryManagement/WechatIMG124.jpg" alt=""></p>
 <h3 id="增量回收（Incremental-GC）"><a href="#增量回收（Incremental-GC）" class="headerlink" title="增量回收（Incremental GC）"></a>增量回收（Incremental GC）</h3><p>这个方案的思想很简单，就是「每次处理一点，下次再处理一点，如此类推」。这种方案，虽然耗时短，但中断较多，带来了上下文切换频繁的问题。<strong>Firefox 浏览器所使用的  JavaScript 引擎就是采用的增量回收策略。</strong>如图： </p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-lesson/2.6-GC&amp;MemoryManagement/WechatIMG125.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-lesson/2.6-GC&amp;MemoryManagement/WechatIMG125.jpg" alt=""></p>
 <p>因为每种方案都其适用场景和缺点，因此在实际应用中，会根据实际情况选择方案。例如：如果大量对象都是长期「存活」，则分代处理优势也不大。</p>
 <blockquote>
 <p>原文链接：Know Your Engines: How to Make Your JavaScript Fast<br><a href="http://conferences.oreilly.com/velocity/velocity2011/public/schedule/detail/18087" target="_blank" rel="external">http://t.cn/RIROY1W</a></p>
@@ -109,7 +181,7 @@
 <li>打开一个网站，例如：<a href="http://www.taobao.com" target="_blank" rel="external">http://www.taobao.com</a>，当网页加载完成后，点击 <code>Stop</code>，等待分析结果。</li>
 <li>然后在 <code>Chart View</code> 上寻找内存急速下降的部分，查看对应的 <code>Event Log</code>，可以从中找到 GC 的日志。</li>
 </ol>
-<p>具体过程如下图所示：<br><img src="http://qiniu.shijiajie.com/blog/javascript-lesson/2.6-GC&amp;MemoryManagement/WechatIMG127.jpg" alt=""></p>
+<p>具体过程如下图所示：<br><img src="http://qn.shisb.com/blog/javascript-lesson/2.6-GC&amp;MemoryManagement/WechatIMG127.jpg" alt=""></p>
 <h2 id="关卡"><a href="#关卡" class="headerlink" title="关卡"></a>关卡</h2><ul>
 <li>挑战一，尝试写一段小程序，触发 IE6 的无限 CG。</li>
 <li>挑战二，参考「查看 Chrome 浏览器下的 CG 过程」，尝试查看 Firefox  浏览器下的 CG 过程。</li>
@@ -127,23 +199,23 @@
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之原型及原型链</title>
-    <link href="http://shijiajie.com/2016/12/21/javascript-lesson-2.5-Prototype/"/>
-    <id>http://shijiajie.com/2016/12/21/javascript-lesson-2.5-Prototype/</id>
+    <link href="http://shisb.com/2016/12/21/javascript-lesson-2.5-Prototype/"/>
+    <id>http://shisb.com/2016/12/21/javascript-lesson-2.5-Prototype/</id>
     <published>2016-12-21T15:55:00.000Z</published>
-    <updated>2016-12-20T16:05:18.000Z</updated>
+    <updated>2017-08-30T14:26:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>原型链是一种机制，指的是 JavaScript 每个对象都有一个内置的 <code>__proto__</code> 属性指向创建它的构造函数的 <code>prototype</code>（原型）属性。原型链的作用是为了实现对象的继承，要理解原型链，需要先从<strong>函数对象</strong>、<code>constructor</code>、<code>new</code>、<code>prototype</code>、<code>__proto__</code> 这五个概念入手。</p>
 <h2 id="函数对象"><a href="#函数对象" class="headerlink" title="函数对象"></a>函数对象</h2><p>前面讲过，在 JavaScript 里，函数即对象，程序可以随意操控它们。比如，可以把函数赋值给变量，或者作为参数传递给其他函数，也可以给它们设置属性，甚至调用它们的方法。下面示例代码对「普通对象」和「函数对象」进行了区分。</p>
@@ -215,7 +287,7 @@
 <p>这种构造函数与原型混成的模式，是目前在 JavaScript 中使用最广泛、认同度最高的一种创建自定义类型的方法。可以说，这是用来定义引用类型的一种默认模式。</p>
 <h2 id="proto"><a href="#proto" class="headerlink" title="__proto__"></a><code>__proto__</code></h2><p>为什么在构造函数的 <code>prototype</code> 中定义了属性和方法，它的实例中就能访问呢？</p>
 <p>那是因为当调用构造函数创建一个新实例后，该实例的内部将包含一个指针 <code>__proto__</code>，指向构造函数的原型。Firefox、Safari 和 Chrome 的每个对象上都有这个属性 ，而在其他浏览器中是完全不可见的（为了确保浏览器兼容性问题，不要直接使用 <code>__proto__</code> 属性，此处只为解释原型链而演示）。让我们来看下面代码和图片：</p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-lesson/2.5/2.jpg?1" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-lesson/2.5/2.jpg?1" alt=""></p>
 <p>图中展示了 <code>Person</code> 构造函数、<code>Person</code> 的原型属性以及 <code>Person</code> 现有的两个实例之间的关系。在此，<code>Person.prototype.constructor</code> 指回了 <code>Person</code>。<code>Person.prototype</code> 中除了包含 <code>constructor</code> 属性之外，还包括后来添加的其他属性。此外，要格外注意的是，虽然这两个实例都不包含属性和方法，但我们却可以调用 <code>person1.sayName()</code>。这是因为内部指针 <code>__proto__</code> 指向 <code>Person.prototype</code>，而在 <code>Person.prototype</code> 中能找到 <code>sayName()</code> 方法。</p>
 <p>我们来证实一下，<code>__proto__</code> 是不是真的指向 <code>Person.prototype</code> 的？如下代码所示：</p>
 <figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">function</span> <span class="title">Person</span>(<span class="params"></span>)</span>&#123;&#125;</div><div class="line"><span class="keyword">var</span> person = <span class="keyword">new</span> Person();</div><div class="line"><span class="built_in">console</span>.log(person.__proto__ === Person.prototype); <span class="comment">// true</span></div></pre></td></tr></table></figure>
@@ -224,7 +296,7 @@
 <p>这个例子中，我先创建了一个空对象 <code>person</code>，然后把 <code>person.__proto__</code> 指向了 <code>Person</code> 的原型对象，便继承了 <code>Person</code> 原型对象中的所有属性和方法，最后又以 <code>person</code> 为作用域执行了 <code>Person</code> 函数，<code>person</code> 便就拥有了 <code>Person</code> 的所有属性和方法。这个过程和 <code>var person = new Person();</code> 完全一样。</p>
 <p>简单来说，当我们访问一个对象的属性时，如果这个属性不存在，那么就会去 <code>__proto__</code> 里找，这个 <code>__proto__</code> 又会有自己的 <code>__proto__</code>，于是就这样一直找下去，直到找到为止。在找不到的情况下，搜索过程总是要一环一环地前行到原型链末端才会停下来。</p>
 <h2 id="原型链"><a href="#原型链" class="headerlink" title="原型链"></a>原型链</h2><p>JavaScript 中描述了<strong>原型链</strong>的概念，并将原型链作为实现继承的主要方法。其基本思想是利用原型让一个引用类型继承另一个引用类型的属性和方法。简单回顾一下构造函数、原型和实例的关系：每个构造函数都有一个原型对象，原型对象都包含一个指向构造函数的指针，而实例都包含一个指向原型对象的内部指针。如下图所示：（图源：<a href="https://segmentfault.com/q/1010000005182807?_ea=1284630" target="_blank" rel="external">segmentfault.com</a>，作者：<a href="https://segmentfault.com/u/manxisuo" target="_blank" rel="external">manxisuo</a>）</p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-lesson/2.5/3.png" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-lesson/2.5/3.png" alt=""></p>
 <p>那么，假如我们让原型对象等于另一个类型的实例，结果会怎么样呢？显然，此时的原型对象将包含一个指向另一个原型的指针，相应地，另一个原型中也包含着一个指向另一个构造函数的指针。假如另一个原型又是另一个类型的实例，那么上述关系依然成立，如此层层递进，就构成了实例与原型的链条。这就是所谓原型链的基本概念。</p>
 <p>上面这段话比较绕口，代码更容易理解，让我们来看看实现原型链的基本模式。如下代码所示：</p>
 <figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">function</span> <span class="title">Father</span>(<span class="params"></span>)</span>&#123;</div><div class="line">    <span class="keyword">this</span>.value = <span class="literal">true</span>;</div><div class="line">&#125;</div><div class="line">Father.prototype.getValue = <span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</div><div class="line">    <span class="keyword">return</span> <span class="keyword">this</span>.value;</div><div class="line">&#125;;</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">function</span> <span class="title">Son</span>(<span class="params"></span>)</span>&#123;</div><div class="line">    <span class="keyword">this</span>.value2 = <span class="literal">false</span>;</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="comment">// 继承了 Father</span></div><div class="line">Son.prototype = <span class="keyword">new</span> Father();</div><div class="line"></div><div class="line">Son.prototype.getValue2 = <span class="function"><span class="keyword">function</span> (<span class="params"></span>)</span>&#123;</div><div class="line">    <span class="keyword">return</span> <span class="keyword">this</span>.value2;</div><div class="line">&#125;;</div><div class="line"></div><div class="line"><span class="keyword">var</span> son = <span class="keyword">new</span> Son();</div><div class="line"><span class="built_in">console</span>.log(son.getValue());  <span class="comment">// true</span></div></pre></td></tr></table></figure>
@@ -234,7 +306,7 @@
 <p>从以上代码可以看出，实例 <code>son</code> 调用 <code>getValue()</code> 方法，实际是经过了 <code>son.__proto__.__proto__.getValue</code> 的过程的，其中 <code>son.__proto__</code> 等于 <code>Son.prototype</code>，而 <code>Son.prototype.__proto__</code> 又等于 <code>Father.prototype</code>，所以 <code>son.__proto__.__proto__.getValue</code> 其实就是 <code>Father.prototype.getValue</code>。</p>
 <p>事实上，前面例子中展示的原型链还少一环。我们知道，所有引用类型默然都继承了 <code>Obeject</code>，而这个继承也是通过原型链实现的。大家要记住，所有函数的默认原型都是 <code>Object</code> 的实例，因此默认原型都会包含一个内部指针 <code>__proto__</code>，指向 <code>Object.prototype</code>。这也正是所有自定义类型都会继承 <code>toString()</code>、<code>valueOf()</code> 等默认方法的根本原因。</p>
 <p>下图展示了原型链实现继承的全部过程。（图源：<a href="https://segmentfault.com/q/1010000005182807?_ea=1284630" target="_blank" rel="external">segmentfault.com</a>，作者：<a href="https://segmentfault.com/u/manxisuo" target="_blank" rel="external">manxisuo</a>）</p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-lesson/2.5/4.png" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-lesson/2.5/4.png" alt=""></p>
 <p>上图中，<code>p</code> 指 <code>prototype</code> 属性，<code>[p]</code> 即 <code>__proto__</code> 指对象的原型，<code>[p]</code> 形成的链（虚线部分）就是<strong>原型链</strong>。从图中可以得出以下信息：</p>
 <ul>
 <li><code>Object.prototype</code> 是顶级对象，所有对象都继承自它。</li>
@@ -266,23 +338,23 @@
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之作用域和闭包</title>
-    <link href="http://shijiajie.com/2016/12/13/javascript-lesson-2.4-Scope&amp;Closure/"/>
-    <id>http://shijiajie.com/2016/12/13/javascript-lesson-2.4-Scope&amp;Closure/</id>
+    <link href="http://shisb.com/2016/12/13/javascript-lesson-2.4-Scope&amp;Closure/"/>
+    <id>http://shisb.com/2016/12/13/javascript-lesson-2.4-Scope&amp;Closure/</id>
     <published>2016-12-13T15:00:00.000Z</published>
-    <updated>2016-12-20T16:05:14.000Z</updated>
+    <updated>2017-08-30T14:26:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>作用域和闭包是 JavaScript 最重要的概念之一，想要进一步学习 JavaScript，就必须理解 JavaScript 作用域和闭包的工作原理。</p>
 <h2 id="作用域"><a href="#作用域" class="headerlink" title="作用域"></a>作用域</h2><p>任何程序设计语言都有作用域的概念，简单的说，作用域就是变量与函数的可访问范围，即作用域控制着变量与函数的可见性和生命周期。在 JavaScript 中，变量的作用域有全局作用域和局部作用域两种。</p>
@@ -321,7 +393,7 @@
 <p>此外，在局部作用域中定义的变量可以在局部环境中与全局变量互换使用，如下面这个例子所示：</p>
 <figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> color = <span class="string">"blue"</span>;</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">function</span> <span class="title">changeColor</span>(<span class="params"></span>)</span>&#123;</div><div class="line">    <span class="keyword">var</span> anotherColor = <span class="string">"red"</span>;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">swapColors</span>(<span class="params"></span>)</span>&#123;</div><div class="line">        <span class="keyword">var</span> tempColor = anotherColor;</div><div class="line">        anotherColor = color;</div><div class="line">        color = tempColor;</div><div class="line"></div><div class="line">        <span class="comment">// 这里可以访问color、anotherColor和tempColor</span></div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">// 这里可以访问color和anotherColor，但不能访问tempColor</span></div><div class="line">    swapColors();</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="comment">// 这里只能访问color</span></div><div class="line">changeColor();</div></pre></td></tr></table></figure>
 <p>以上代码共涉及3个执行环境：全局环境、<code>changeColor()</code> 的局部环境和 <code>swapColors()</code> 的局部环境。全局环境中有一个变量 <code>color</code> 和一个函数 <code>changeColor()</code>。<code>changeColor()</code> 的局部环境中有一个名为 <code>anotherColor</code> 的变量和一个名为 <code>swapColors()</code> 的函数，但它也可以访问全局环境中的变量 <code>color</code>。<code>swapColors()</code> 的局部环境中有一个变量 <code>tempColor</code>，该变量只能在这个环境中访问到。无论全局环境还是 <code>changeColor()</code> 的局部环境都无权访问 <code>tempColor</code>。然而，在 <code>swapColors()</code> 内部则可以访问其他两个环境中的所有变量，因为那两个环境是它的父执行环境。下图形象地展示了前面这个例子的作用域链。</p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-lesson/2.41.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-lesson/2.41.jpg" alt=""></p>
 <p>上图中的矩形表示特定的执行环境。其中，内部环境可以通过作用域链访问所有的外部环境，但外部环境不能访问内部环境中的任何变量和函数。这些环境之间的联系是线性、有次序的。每个环境都可以向上搜索作用域链，以查询变量和函数名；但任何环境都不能通过向下搜索作用域链而进入另一个执行环境。对于这个例子中的 <code>swapColors()</code> 而言，其作用域链中包含3个对象：<code>swapColors()</code> 的变量对象、<code>changeColor()</code> 的变量对象和全局变量对象。<code>swapColors()</code> 的局部环境开始时会先在自己的变量对象中搜索变量和函数名，如果搜索不到则再搜索上一级作用域链。<code>changeColor()</code> 的作用域链中只包含两个对象：它自己的变量对象和全局变量对象。这也就是说，它不能访问 <code>swapColors()</code> 的环境。函数参数也被当作变量来对待，因此其访问规则与执行环境中的其他变量相同。</p>
 <h2 id="闭包"><a href="#闭包" class="headerlink" title="闭包"></a>闭包</h2><p>MDN 对闭包的定义：</p>
 <blockquote>
@@ -419,34 +491,34 @@
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>如何排版 微信公众号「代码块」之 MarkEditor</title>
-    <link href="http://shijiajie.com/2016/12/04/wechat-public-platform-layout-designer2/"/>
-    <id>http://shijiajie.com/2016/12/04/wechat-public-platform-layout-designer2/</id>
+    <link href="http://shisb.com/2016/12/04/wechat-public-platform-layout-designer2/"/>
+    <id>http://shisb.com/2016/12/04/wechat-public-platform-layout-designer2/</id>
     <published>2016-12-04T13:30:00.000Z</published>
-    <updated>2016-12-04T13:42:44.000Z</updated>
+    <updated>2017-08-30T14:26:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>前段时间写过一篇文章 <a href="http://www.jianshu.com/p/ffeb5ceac32b" target="_blank" rel="external">如何排版微信公众号「代码块」</a>，讲的是如何使用浏览器插件 <a href="http://markdown-here.com/index.html" target="_blank" rel="external">Markdown Here</a> 来排版代码块。虽然用 <a href="http://markdown-here.com/index.html" target="_blank" rel="external">Markdown Here</a> 排版出来的样式还不错，但存在一个问题，就是代码之间的换行会全部丢失，需要手动进行调整。如果文章中代码较多的话，调整起来还是挺费劲的。</p>
 <p>而我近期写的文章，常常会罗列大量代码，导致每次在公众号发文，都要花1个多小时来调整样式，真是难受想哭。</p>
 <p>双11期间，看到 <a href="https://www.zhihu.com/people/sagacity" target="_blank" rel="external">池建强老师</a> 公众号 <code>MacTalk</code> 的文章 <a href="http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MjM5ODQ2MDIyMA==#wechat_webview_type=1&amp;wechat_redirect" target="_blank" rel="external">如何优雅的购买 Mac 软件</a>。不出我意料，他果然推荐了一家专卖正版 Mac 软件的淘宝店铺 <a href="https://digitalychee.taobao.com/?spm=a1z10.1-c-s.0.0.Lc7ddI" target="_blank" rel="external">数码荔枝</a>。秉承「老池推荐必精品」的原则，我如愿的淘到了微信公众号排版神器 <a href="http://markeditor.com/app/markeditor" target="_blank" rel="external">MarkEditor</a>。当时，该软件有着「双11特惠」和「老池特惠」双重加持，我仅用了 76.5 就拿下了官网售价 128 的 Pro 版本（得意的笑）。</p>
-<p><img src="http://qiniu.shijiajie.com/blog/wechat-public-platform-layout-designer2/WechatIMG98.jpeg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/wechat-public-platform-layout-designer2/WechatIMG98.jpeg" alt=""></p>
 <a id="more"></a>
 <p>促使我购买 <a href="http://markeditor.com/app/markeditor" target="_blank" rel="external">MarkEditor</a> 的原因是，它官方介绍能「支持导出为微信公众号文章格式」。我实在是被微信公众号的「代码块」排版折磨得不行，看到任何希望都想试试。</p>
-<p><img src="http://qiniu.shijiajie.com/blog/wechat-public-platform-layout-designer2/WechatIMG99.jpeg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/wechat-public-platform-layout-designer2/WechatIMG99.jpeg" alt=""></p>
 <p>而 <a href="http://markeditor.com/app/markeditor" target="_blank" rel="external">MarkEditor</a> 没有令我失望，默认的3套微信样式都非常美观，最重要的是「代码块」直接就能正常展示，不用再去手工调整。如果你会CSS，那么你还可以给 Markdown 设计多套样式，以适应不同类型的文章。</p>
 <p>下图是 <a href="http://markeditor.com/app/markeditor" target="_blank" rel="external">MarkEditor</a>（左）和 <a href="http://markdown-here.com/index.html" target="_blank" rel="external">Markdown Here</a>（右）的排版对比效果。用 <a href="http://markeditor.com/app/markeditor" target="_blank" rel="external">MarkEditor</a> 排版一次到位；而用 <a href="http://markdown-here.com/index.html" target="_blank" rel="external">Markdown Here</a> 排版，我不仅重新调整了「代码块」的换行问题，还调整了全文的间距及字号。为此它又浪费了我5分钟，好在今后能被 <a href="http://markeditor.com/app/markeditor" target="_blank" rel="external">MarkEditor</a> 解放。</p>
-<p><img src="http://qiniu.shijiajie.com/blog/wechat-public-platform-layout-designer2/demo.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/wechat-public-platform-layout-designer2/demo.jpg" alt=""></p>
 <p><a href="https://item.taobao.com/item.htm?id=535492270773&amp;_fb=MjluZTdwNnwxMWk3MnwxfDUzNTQ5MjI3MDc3M3xncWF8ODg5ODUw&amp;spm=a310v.4.1100002.2474057510&amp;_g=s2&amp;_g=a1100002&amp;_n=2474057510&amp;_t=item&amp;_tk=535492270773&amp;tracelog=frsinazt&amp;from=frsinazt" target="_blank" rel="external">MarkEditorPro版 淘宝购买链接 119元</a>，<a href="http://markeditor.com/buy?app=markeditor&amp;default_type=pro" target="_blank" rel="external">MarkEditorPro版 官网购买链接 128元</a>。（可惜我影响力卑微，联系过淘宝店铺 <a href="https://digitalychee.taobao.com/?spm=a1z10.1-c-s.0.0.Lc7ddI" target="_blank" rel="external">数码荔枝</a>，想给大家争取点优惠，不过没有成功。）</p>
 <p>为了感谢长期支持我的朋友们，我无论如何都要给大家发放福利。挥泪把自己的 License 提供给大家使用，只有15个名额（因为每个 License 最多只能注册20次），规则如下：</p>
 <ul>
@@ -463,27 +535,27 @@
       &lt;p&gt;前段时间写过一篇文章 &lt;a href=&quot;http://www.jianshu.com/p/ffeb5ceac32b&quot;&gt;如何排版微信公众号「代码块」&lt;/a&gt;，讲的是如何使用浏览器插件 &lt;a href=&quot;http://markdown-here.com/index.html&quot;&gt;Markdown Here&lt;/a&gt; 来排版代码块。虽然用 &lt;a href=&quot;http://markdown-here.com/index.html&quot;&gt;Markdown Here&lt;/a&gt; 排版出来的样式还不错，但存在一个问题，就是代码之间的换行会全部丢失，需要手动进行调整。如果文章中代码较多的话，调整起来还是挺费劲的。&lt;/p&gt;
 &lt;p&gt;而我近期写的文章，常常会罗列大量代码，导致每次在公众号发文，都要花1个多小时来调整样式，真是难受想哭。&lt;/p&gt;
 &lt;p&gt;双11期间，看到 &lt;a href=&quot;https://www.zhihu.com/people/sagacity&quot;&gt;池建强老师&lt;/a&gt; 公众号 &lt;code&gt;MacTalk&lt;/code&gt; 的文章 &lt;a href=&quot;http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MjM5ODQ2MDIyMA==#wechat_webview_type=1&amp;amp;wechat_redirect&quot;&gt;如何优雅的购买 Mac 软件&lt;/a&gt;。不出我意料，他果然推荐了一家专卖正版 Mac 软件的淘宝店铺 &lt;a href=&quot;https://digitalychee.taobao.com/?spm=a1z10.1-c-s.0.0.Lc7ddI&quot;&gt;数码荔枝&lt;/a&gt;。秉承「老池推荐必精品」的原则，我如愿的淘到了微信公众号排版神器 &lt;a href=&quot;http://markeditor.com/app/markeditor&quot;&gt;MarkEditor&lt;/a&gt;。当时，该软件有着「双11特惠」和「老池特惠」双重加持，我仅用了 76.5 就拿下了官网售价 128 的 Pro 版本（得意的笑）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://qiniu.shijiajie.com/blog/wechat-public-platform-layout-designer2/WechatIMG98.jpeg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://qn.shisb.com/blog/wechat-public-platform-layout-designer2/WechatIMG98.jpeg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="CSS" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/CSS/"/>
+      <category term="CSS" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/CSS/"/>
     
     
-      <category term="CSS" scheme="http://shijiajie.com/tags/CSS/"/>
+      <category term="CSS" scheme="http://shisb.com/tags/CSS/"/>
     
-      <category term="微信公众号" scheme="http://shijiajie.com/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+      <category term="微信公众号" scheme="http://shisb.com/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之事件</title>
-    <link href="http://shijiajie.com/2016/11/29/javascript-lesson-2.3-Event/"/>
-    <id>http://shijiajie.com/2016/11/29/javascript-lesson-2.3-Event/</id>
+    <link href="http://shisb.com/2016/11/29/javascript-lesson-2.3-Event/"/>
+    <id>http://shisb.com/2016/11/29/javascript-lesson-2.3-Event/</id>
     <published>2016-11-28T23:00:00.000Z</published>
-    <updated>2016-12-20T16:03:09.000Z</updated>
+    <updated>2017-08-30T14:26:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>JavaScript 程序采用了异步事件驱动编程模型。在这种程序设计风格下，当文档、浏览器、元素或与之相关的对象发生某些有趣的事情时，Web 浏览器就会产生事件（event）。例如，当 Web 浏览器加载完文档、用户把鼠标指针移到超链接上或敲击键盘时，Web 浏览器都会产生事件。如果 JavaScript 应用程序关注特定类型的事件，那么它可以注册当这类事件发生时要调用的一个或多个函数。请注意，这种风格并不只应用于 Web 编程，所有使用图形用户界面的应用程序都采用了它，它们静待某些事情发生（即，它们等待事件发生），然后它们响应。</p>
 <p>请注意，事件本身并不是一个需要定义的技术名词。简而言之，事件就是 Web 浏览器通知应用程序发生了什么事情，这种在传统软件工程中被称为观察员模式。</p>
@@ -499,7 +571,7 @@
 <li><code>document</code></li>
 </ol>
 <p>也就是说，<code>click</code> 事件首先在 <code>&lt;div&gt;</code> 元素上发生，而这个元素就是我们单击的元素。然后，<code>click</code> 事件沿 DOM 树向上传播，在每一级节点上都会发生，直至传播到 <code>document</code> 对象。下图展示了事件冒泡的过程。</p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-lesson/2.3/1.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-lesson/2.3/1.jpg" alt=""></p>
 <a id="more"></a> 
 <h3 id="事件捕获"><a href="#事件捕获" class="headerlink" title="事件捕获"></a>事件捕获</h3><p>Netscape Communicator 团队提出的另一种事件流叫做<strong>事件捕获</strong>（event capturing）。事件捕获的思想是不太具体的节点应该更早接收到事件，而最具体的节点应该最后接收到事件。事件捕获的用意在于在事件到达预定目标之前捕获它。如果仍以前面的 HTML 页面作为演示事件捕获的例子，那么单击 <code>&lt;div&gt;</code> 元素就会以下列顺序触发 <code>click</code> 事件。</p>
 <ol>
@@ -509,7 +581,7 @@
 <li><code>&lt;div&gt;</code></li>
 </ol>
 <p>在事件捕获过程中，<code>document</code> 对象首先接收到 <code>click</code> 事件，然后事件沿 DOM 树依次向下，一直传播到事件的实际目标，即 <code>&lt;div&gt;</code> 元素。下图展示了事件捕获的过程。</p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-lesson/2.3/2.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-lesson/2.3/2.jpg" alt=""></p>
 <p>由于老版本的浏览器不支持，因此很少有人使用事件捕获。我们也建议大家放心地使用事件冒泡，在有特殊需要时再使用事件捕获。</p>
 <h2 id="事件处理程序"><a href="#事件处理程序" class="headerlink" title="事件处理程序"></a>事件处理程序</h2><p>事件就是用户或浏览器自身执行的某种动作。诸如 <code>click</code>、<code>load</code> 和 <code>mouseover</code>，都是事件的名字。而响应某个事件的函数就叫做<strong>事件处理程序</strong>（或<strong>事件侦听器</strong>）。事件处理程序的名字以 <code>&quot;on&quot;</code> 开头，因此 <code>click</code> 事件的事件处理程序就是 <code>onclick</code>，<code>load</code> 事件的事件处理程序就是 <code>onload</code>。为事件指定处理程序的方式有好几种。</p>
 <h3 id="HTML-事件处理程序"><a href="#HTML-事件处理程序" class="headerlink" title="HTML 事件处理程序"></a>HTML 事件处理程序</h3><p>某个元素支持的每种事件，都可以使用一个与相应事件处理程序同名的 HTML 特性来指定。这个特性的值应该是能够执行的 JavaScript 代码。例如，要在按钮被单击时执行一些 JavaScript，可以像下面这样编写代码：</p>
@@ -704,25 +776,25 @@
 &lt;li&gt;&lt;code&gt;document&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;也就是说，&lt;code&gt;click&lt;/code&gt; 事件首先在 &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; 元素上发生，而这个元素就是我们单击的元素。然后，&lt;code&gt;click&lt;/code&gt; 事件沿 DOM 树向上传播，在每一级节点上都会发生，直至传播到 &lt;code&gt;document&lt;/code&gt; 对象。下图展示了事件冒泡的过程。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://qiniu.shijiajie.com/blog/javascript-lesson/2.3/1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://qn.shisb.com/blog/javascript-lesson/2.3/1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之 DOM（下）</title>
-    <link href="http://shijiajie.com/2016/11/22/javascript-lesson-2.2-DOM-2/"/>
-    <id>http://shijiajie.com/2016/11/22/javascript-lesson-2.2-DOM-2/</id>
+    <link href="http://shisb.com/2016/11/22/javascript-lesson-2.2-DOM-2/"/>
+    <id>http://shisb.com/2016/11/22/javascript-lesson-2.2-DOM-2/</id>
     <published>2016-11-22T14:30:00.000Z</published>
     <updated>2016-11-22T12:25:10.000Z</updated>
     
@@ -949,29 +1021,29 @@
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之 DOM（上）</title>
-    <link href="http://shijiajie.com/2016/11/15/javascript-lesson-2.2-DOM-1/"/>
-    <id>http://shijiajie.com/2016/11/15/javascript-lesson-2.2-DOM-1/</id>
+    <link href="http://shisb.com/2016/11/15/javascript-lesson-2.2-DOM-1/"/>
+    <id>http://shisb.com/2016/11/15/javascript-lesson-2.2-DOM-1/</id>
     <published>2016-11-15T15:30:00.000Z</published>
-    <updated>2016-11-22T12:25:14.000Z</updated>
+    <updated>2017-08-30T14:26:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>DOM（文档对象模型）是针对 HTML 和 XML 文档的一个 API。DOM 描绘了一个层次化的节点树，允许开发人员添加、移除和修改页面的某一部分。</p>
 <h2 id="节点层次"><a href="#节点层次" class="headerlink" title="节点层次"></a>节点层次</h2><p>DOM 可以将任何 HTML 或 XML 文档描绘成一个由多层节点构成的结构。节点分为几种不同的类型，每种类型分别表示文档中不同的信息及（或）标记。每个节点都拥有各自的特点、数据和方法，另外也与其他节点存在某种关系。节点之间的关系构成了层次，而所有页面标记则表现为一个以特定节点为根节点的树形结构。以下面的 HTML 为例：</p>
 <figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">head</span>&gt;</span></div><div class="line">        <span class="tag">&lt;<span class="name">title</span>&gt;</span>Sample Page<span class="tag">&lt;/<span class="name">title</span>&gt;</span></div><div class="line">    <span class="tag">&lt;/<span class="name">head</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">body</span>&gt;</span></div><div class="line">        <span class="tag">&lt;<span class="name">p</span>&gt;</span>Hello World!<span class="tag">&lt;/<span class="name">p</span>&gt;</span></div><div class="line">    <span class="tag">&lt;/<span class="name">body</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></div></pre></td></tr></table></figure>
 <p>可以将这个简单的 HTML 文档表示为一个层次结构，如图下图所示。</p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-lesson/2.2/1.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-lesson/2.2/1.jpg" alt=""></p>
 <p>在这个例子中，文档元素是文档的最外层元素，文档中的其他所有元素都包含在文档元素中。每个文档只能有一个文档元素。</p>
 <p>每一段标记都可以通过树中的一个节点来表示：HTML 元素通过元素节点表示，特性（attribute）通过特性节点表示，文档类型通过文档类型节点表示，而注释则通过注释节点表示。总共有12种节点类型，这些类型都继承自一个基类型。</p>
 <a id="more"></a> 
@@ -1021,7 +1093,7 @@
 <figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">if</span> (someNode.nextSibling === <span class="literal">null</span>)&#123;</div><div class="line">    <span class="built_in">console</span>.log(<span class="string">"Last node in the parent’s childNodes list."</span>);</div><div class="line">&#125; <span class="keyword">else</span> <span class="keyword">if</span> (someNode.previousSibling === <span class="literal">null</span>)&#123;</div><div class="line">    <span class="built_in">console</span>.log(<span class="string">"First node in the parent’s childNodes list."</span>);</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 <p>当然，如果列表中只有一个节点，那么该节点的 <code>nextSibling</code> 和 <code>previousSibling</code> 都为 <code>null</code>。</p>
 <p>父节点与其第一个和最后一个子节点之间也存在特殊关系。父节点的 <code>firstChild</code> 和 <code>lastChild</code> 属性分别指向其 <code>childNodes</code> 列表中的第一个和最后一个节点。其中，<code>someNode.firstChild</code> 的值始终等于 <code>someNode.childNodes[0]</code>，而 <code>someNode.lastChild</code> 的值始终等于 <code>someNode.childNodes [someNode.childNodes.length-1]</code>。在只有一个子节点的情况下， <code>firstChild</code> 和 <code>lastChild</code> 指向同一个节点。如果没有子节点，那么 <code>firstChild</code> 和 <code>lastChild</code> 的值均为 <code>null</code>。明确这些关系能够对我们查找和访问文档结构中的节点提供极大的便利。下图形象地展示了上述关系。</p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-lesson/2.2/2.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-lesson/2.2/2.jpg" alt=""></p>
 <p>在反映这些关系的所有属性当中，<code>childNodes</code> 属性与其他属性相比更方便一些，因为只须使用简单的关系指针，就可以通过它访问文档树中的任何节点。另外，<code>hasChildNodes()</code> 也是一个非常有用的方法，这个方法在节点包含一或多个子节点的情况下返回 <code>true</code>；应该说，这是比查询 <code>childNodes</code> 列表的 <code>length</code> 属性更简单的方法。</p>
 <p>所有节点都有的最后一个属性是 <code>ownerDocument</code>，该属性指向表示整个文档的文档节点。这种关系表示的是任何节点都属于它所在的文档，任何节点都不能同时存在于两个或更多个文档中。通过这个属性，我们可以不必在节点层次中通过层层回溯到达顶端，而是可以直接访问文档节点。</p>
 <h4 id="操作节点"><a href="#操作节点" class="headerlink" title="操作节点"></a>操作节点</h4><p>因为关系指针都是只读的，所以 DOM 提供了一些操作节点的方法。其中，最常用的方法是 <code>appendChild()</code>，用于向 <code>childNodes</code> 列表的末尾添加一个节点。添加节点后，<code>childNodes</code> 的新增节点、父节点及以前的最后一个子节点的关系指针都会相应地得到更新。更新完成后，<code>appendChild()</code> 返回新增的节点。来看下面的例子：</p>
@@ -1131,27 +1203,27 @@
 &lt;h2 id=&quot;节点层次&quot;&gt;&lt;a href=&quot;#节点层次&quot; class=&quot;headerlink&quot; title=&quot;节点层次&quot;&gt;&lt;/a&gt;节点层次&lt;/h2&gt;&lt;p&gt;DOM 可以将任何 HTML 或 XML 文档描绘成一个由多层节点构成的结构。节点分为几种不同的类型，每种类型分别表示文档中不同的信息及（或）标记。每个节点都拥有各自的特点、数据和方法，另外也与其他节点存在某种关系。节点之间的关系构成了层次，而所有页面标记则表现为一个以特定节点为根节点的树形结构。以下面的 HTML 为例：&lt;/p&gt;
 &lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;7&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;8&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;        &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;title&lt;/span&gt;&amp;gt;&lt;/span&gt;Sample Page&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;name&quot;&gt;title&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    &lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;name&quot;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;body&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;        &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;Hello World!&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;name&quot;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    &lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;name&quot;&gt;body&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;name&quot;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;可以将这个简单的 HTML 文档表示为一个层次结构，如图下图所示。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://qiniu.shijiajie.com/blog/javascript-lesson/2.2/1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://qn.shisb.com/blog/javascript-lesson/2.2/1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;在这个例子中，文档元素是文档的最外层元素，文档中的其他所有元素都包含在文档元素中。每个文档只能有一个文档元素。&lt;/p&gt;
 &lt;p&gt;每一段标记都可以通过树中的一个节点来表示：HTML 元素通过元素节点表示，特性（attribute）通过特性节点表示，文档类型通过文档类型节点表示，而注释则通过注释节点表示。总共有12种节点类型，这些类型都继承自一个基类型。&lt;/p&gt;
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之 BOM</title>
-    <link href="http://shijiajie.com/2016/11/07/javascript-lesson-2.1-BOM/"/>
-    <id>http://shijiajie.com/2016/11/07/javascript-lesson-2.1-BOM/</id>
+    <link href="http://shisb.com/2016/11/07/javascript-lesson-2.1-BOM/"/>
+    <id>http://shisb.com/2016/11/07/javascript-lesson-2.1-BOM/</id>
     <published>2016-11-07T14:30:00.000Z</published>
     <updated>2016-11-07T14:23:17.000Z</updated>
     
@@ -1384,21 +1456,21 @@
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之单体内置对象</title>
-    <link href="http://shijiajie.com/2016/11/01/javascript-lesson-1.12-SingletonBuiltInObjects/"/>
-    <id>http://shijiajie.com/2016/11/01/javascript-lesson-1.12-SingletonBuiltInObjects/</id>
+    <link href="http://shisb.com/2016/11/01/javascript-lesson-1.12-SingletonBuiltInObjects/"/>
+    <id>http://shisb.com/2016/11/01/javascript-lesson-1.12-SingletonBuiltInObjects/</id>
     <published>2016-11-01T14:30:00.000Z</published>
     <updated>2016-11-01T14:33:22.000Z</updated>
     
@@ -1639,21 +1711,21 @@
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之基本包装类型</title>
-    <link href="http://shijiajie.com/2016/10/26/javascript-lesson-1.11-PrimitiveWrapperObjects/"/>
-    <id>http://shijiajie.com/2016/10/26/javascript-lesson-1.11-PrimitiveWrapperObjects/</id>
+    <link href="http://shisb.com/2016/10/26/javascript-lesson-1.11-PrimitiveWrapperObjects/"/>
+    <id>http://shisb.com/2016/10/26/javascript-lesson-1.11-PrimitiveWrapperObjects/</id>
     <published>2016-10-26T15:00:00.000Z</published>
     <updated>2016-11-22T12:25:57.000Z</updated>
     
@@ -1793,21 +1865,21 @@
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之正则表达式</title>
-    <link href="http://shijiajie.com/2016/10/17/javascript-lesson-1.10-RegExpObjects/"/>
-    <id>http://shijiajie.com/2016/10/17/javascript-lesson-1.10-RegExpObjects/</id>
+    <link href="http://shisb.com/2016/10/17/javascript-lesson-1.10-RegExpObjects/"/>
+    <id>http://shisb.com/2016/10/17/javascript-lesson-1.10-RegExpObjects/</id>
     <published>2016-10-17T14:30:00.000Z</published>
     <updated>2016-10-17T14:38:10.000Z</updated>
     
@@ -1918,21 +1990,21 @@
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之函数</title>
-    <link href="http://shijiajie.com/2016/10/12/javascript-lesson-1.9-FunctionObjects/"/>
-    <id>http://shijiajie.com/2016/10/12/javascript-lesson-1.9-FunctionObjects/</id>
+    <link href="http://shisb.com/2016/10/12/javascript-lesson-1.9-FunctionObjects/"/>
+    <id>http://shisb.com/2016/10/12/javascript-lesson-1.9-FunctionObjects/</id>
     <published>2016-10-12T14:00:00.000Z</published>
     <updated>2016-10-12T13:50:38.000Z</updated>
     
@@ -2007,21 +2079,21 @@
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之对象</title>
-    <link href="http://shijiajie.com/2016/10/07/javascript-lesson-1.8-ArrayObjects/"/>
-    <id>http://shijiajie.com/2016/10/07/javascript-lesson-1.8-ArrayObjects/</id>
+    <link href="http://shisb.com/2016/10/07/javascript-lesson-1.8-ArrayObjects/"/>
+    <id>http://shisb.com/2016/10/07/javascript-lesson-1.8-ArrayObjects/</id>
     <published>2016-10-07T15:00:00.000Z</published>
     <updated>2016-10-07T15:04:03.000Z</updated>
     
@@ -2175,26 +2247,26 @@
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>被「李笑来老师」拉黑之「JavaScript微博自动转发的脚本」</title>
-    <link href="http://shijiajie.com/2016/10/02/javascript-weibo-forward-tool/"/>
-    <id>http://shijiajie.com/2016/10/02/javascript-weibo-forward-tool/</id>
+    <link href="http://shisb.com/2016/10/02/javascript-weibo-forward-tool/"/>
+    <id>http://shisb.com/2016/10/02/javascript-weibo-forward-tool/</id>
     <published>2016-10-02T04:00:00.000Z</published>
-    <updated>2016-10-02T14:23:47.000Z</updated>
+    <updated>2017-08-30T14:26:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>故事的背景如下图，<a href="http://weibo.com/bylixiaolai" target="_blank" rel="external">李笑来</a> 老师于10月19日在 <a href="https://www.zhihu.com/lives/about" target="_blank" rel="external">知乎Live</a> 开设 <a href="https://www.zhihu.com/lives/763851343583547392" target="_blank" rel="external">一小时建立终生受用的阅读操作系统</a> 的讲座，他老人家看到大家伙报名踊跃，便在微博上发起了一个 <a href="http://weibo.com/1576218000/Eau3ZoPWd?type=comment" target="_blank" rel="external">猜数量赢取iPhone7</a> 的活动。</p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-weibo-forward-tool/1.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-weibo-forward-tool/1.jpg" alt=""></p>
 <p>因为该活动注明了「不限猜的次数」，我便用 JavaScript 写一个自动转发的脚本，用机器代替手工转发，结果转发不到200次就被 <a href="http://weibo.com/bylixiaolai" target="_blank" rel="external">李笑来</a> 老师拉黑了，实在扫兴。与其独自郁闷，不如把技术细节分享给大家，祝大家能早日赢得 iPhone7。我的微博地址是：<a href="http://weibo.com/stone0090" target="_blank" rel="external">http://weibo.com/stone0090</a>，欢迎大家来围观。</p>
 <a id="more"></a> 
 <p>本以为花一两个小时就能搞定这个微博自动转发的脚本，结果中途不停的踩坑折腾了大半天。还好早早的被 <a href="http://weibo.com/bylixiaolai" target="_blank" rel="external">李笑来</a> 老师拉黑。不然用 .NET 重写工具，再接入 <a href="http://www.dama2.com" target="_blank" rel="external">打码兔</a>，还得再花我好几个小时。好不容易国庆长假休息一下，还不是想给媳妇换个 iPhone7，我就能用她的 iPhone6s，要不然真心不想花太多时间捣鼓这个。废话不多说了，进入正题：</p>
@@ -2204,11 +2276,11 @@
 <li>微博会员：据网上流言，普通用户如果转发过多会被封号，而会员则不会。</li>
 </ul>
 <h3 id="填坑过程"><a href="#填坑过程" class="headerlink" title="填坑过程"></a>填坑过程</h3><p>打开 Chrome 浏览器中，先登录自己的微博，再进入李笑来老师的微博首页 <a href="http://weibo.com/bylixiaolai" target="_blank" rel="external">http://weibo.com/bylixiaolai</a> 。</p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-weibo-forward-tool/3.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-weibo-forward-tool/3.jpg" alt=""></p>
 <p>打开 Chrome 开发者工具（Mac 快捷键 <code>option</code> + <code>comand</code> + <code>j</code>，Window 快捷键 <code>ctrl</code> + <code>shift</code> + <code>i</code>），切换 tab 到 NetWork，并点击 clear，清除初始化时所加载的数据。</p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-weibo-forward-tool/2.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-weibo-forward-tool/2.jpg" alt=""></p>
 <p>然后手动转发一次微博，获取到转发时所产生的请求。</p>
-<p><img src="http://qiniu.shijiajie.com/blog/javascript-weibo-forward-tool/4.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/javascript-weibo-forward-tool/4.jpg" alt=""></p>
 <p>利用上图红框中的关键数据，使用 JavaScript 模拟发送转发请求，具体代码如下。</p>
 <figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 转发微博，并评论</span></div><div class="line"><span class="function"><span class="keyword">function</span> <span class="title">forwardWeibo</span>(<span class="params">content, retcode</span>) </span>&#123;</div><div class="line">  <span class="keyword">var</span> formData = <span class="keyword">new</span> FormData();</div><div class="line">  formData.append(<span class="string">'pic_src'</span>, <span class="string">''</span>);</div><div class="line">  formData.append(<span class="string">'pic_id'</span>, <span class="string">''</span>);</div><div class="line">  formData.append(<span class="string">'appkey'</span>, <span class="string">''</span>);</div><div class="line">  formData.append(<span class="string">'mid'</span>, <span class="string">'4024988475919525'</span>);</div><div class="line">  formData.append(<span class="string">'style_type'</span>, <span class="string">'1'</span>);</div><div class="line">  formData.append(<span class="string">'mark'</span>, <span class="string">''</span>);</div><div class="line">  formData.append(<span class="string">'reason'</span>, content);</div><div class="line">  formData.append(<span class="string">'location'</span>, <span class="string">'page_100505_home'</span>);</div><div class="line">  formData.append(<span class="string">'pdetail'</span>, <span class="string">'1005051576218000'</span>);</div><div class="line">  formData.append(<span class="string">'module'</span>, <span class="string">''</span>);</div><div class="line">  formData.append(<span class="string">'page_module_id'</span>, <span class="string">''</span>);</div><div class="line">  formData.append(<span class="string">'refer_sort'</span>, <span class="string">''</span>);</div><div class="line">  formData.append(<span class="string">'is_comment_base'</span>, <span class="string">'1'</span>);</div><div class="line">  formData.append(<span class="string">'rank'</span>, <span class="string">'0'</span>);</div><div class="line">  formData.append(<span class="string">'rankid'</span>, <span class="string">''</span>);</div><div class="line">  formData.append(<span class="string">'_t'</span>, <span class="string">'0'</span>);</div><div class="line">  formData.append(<span class="string">'retcode'</span>, retcode || <span class="string">''</span>);</div><div class="line"></div><div class="line">  <span class="keyword">var</span> xhr = <span class="keyword">new</span> XMLHttpRequest();</div><div class="line">  xhr.timeout = <span class="number">3000</span>;</div><div class="line">  xhr.responseType = <span class="string">"text"</span>;</div><div class="line">  xhr.open(<span class="string">'POST'</span>, <span class="string">'http://weibo.com/aj/v6/mblog/forward?ajwvr=6&amp;domain=100505&amp;__rnd='</span> + <span class="keyword">new</span> <span class="built_in">Date</span>().getTime(), <span class="literal">true</span>);</div><div class="line">  xhr.onload = <span class="function"><span class="keyword">function</span>(<span class="params">e</span>) </span>&#123;</div><div class="line">    <span class="keyword">if</span> (<span class="keyword">this</span>.status == <span class="number">200</span> || <span class="keyword">this</span>.status == <span class="number">304</span>) &#123;</div><div class="line">      <span class="keyword">var</span> data = <span class="built_in">JSON</span>.parse(<span class="keyword">this</span>.responseText);</div><div class="line">      <span class="keyword">if</span> (data.code == <span class="string">"100000"</span>) &#123;</div><div class="line">        <span class="comment">// 转发微博成功</span></div><div class="line">        <span class="built_in">console</span>.log(content);</div><div class="line">      &#125; <span class="keyword">else</span> <span class="keyword">if</span> (data.code == <span class="string">"100027"</span>) &#123;</div><div class="line">        <span class="comment">// 转发微博失败，需要回答图片验证码的问题</span></div><div class="line">        <span class="built_in">console</span>.log(data);</div><div class="line">      &#125; <span class="keyword">else</span> &#123;</div><div class="line">        <span class="comment">// 转发微博失败，其他原因</span></div><div class="line">        <span class="built_in">console</span>.log(data);</div><div class="line">      &#125;</div><div class="line">    &#125;</div><div class="line">  &#125;;</div><div class="line">  xhr.send(formData);</div><div class="line">&#125;</div><div class="line"><span class="comment">//forwardWeibo('转发内容');</span></div><div class="line"><span class="comment">//forwardWeibo('转发内容',verified('答案'));</span></div><div class="line"></div><div class="line"><span class="comment">// 每5秒转发一次</span></div><div class="line"><span class="keyword">var</span> count = <span class="number">35000</span>;</div><div class="line">setInterval(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</div><div class="line">  forwardWeibo(count++);</div><div class="line">&#125;, <span class="number">5000</span>);</div></pre></td></tr></table></figure>
 <p>打开 Chrome 开发者工具，切换 tab 到 Console，拷贝上面代码到 Console 中，按回车键即可以「5秒1次」的频率对李笑来老师的这条微博进行转发评论，如需停止请关闭该页面再重新打开。</p>
@@ -2227,26 +2299,26 @@
     <summary type="html">
     
       &lt;p&gt;故事的背景如下图，&lt;a href=&quot;http://weibo.com/bylixiaolai&quot;&gt;李笑来&lt;/a&gt; 老师于10月19日在 &lt;a href=&quot;https://www.zhihu.com/lives/about&quot;&gt;知乎Live&lt;/a&gt; 开设 &lt;a href=&quot;https://www.zhihu.com/lives/763851343583547392&quot;&gt;一小时建立终生受用的阅读操作系统&lt;/a&gt; 的讲座，他老人家看到大家伙报名踊跃，便在微博上发起了一个 &lt;a href=&quot;http://weibo.com/1576218000/Eau3ZoPWd?type=comment&quot;&gt;猜数量赢取iPhone7&lt;/a&gt; 的活动。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://qiniu.shijiajie.com/blog/javascript-weibo-forward-tool/1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://qn.shisb.com/blog/javascript-weibo-forward-tool/1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;因为该活动注明了「不限猜的次数」，我便用 JavaScript 写一个自动转发的脚本，用机器代替手工转发，结果转发不到200次就被 &lt;a href=&quot;http://weibo.com/bylixiaolai&quot;&gt;李笑来&lt;/a&gt; 老师拉黑了，实在扫兴。与其独自郁闷，不如把技术细节分享给大家，祝大家能早日赢得 iPhone7。我的微博地址是：&lt;a href=&quot;http://weibo.com/stone0090&quot;&gt;http://weibo.com/stone0090&lt;/a&gt;，欢迎大家来围观。&lt;/p&gt;
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
   </entry>
   
   <entry>
     <title>「前端开发者」如何把握住「微信小程序」这波红利？</title>
-    <link href="http://shijiajie.com/2016/09/27/wechat-application-font-end/"/>
-    <id>http://shijiajie.com/2016/09/27/wechat-application-font-end/</id>
+    <link href="http://shisb.com/2016/09/27/wechat-application-font-end/"/>
+    <id>http://shisb.com/2016/09/27/wechat-application-font-end/</id>
     <published>2016-09-26T19:00:00.000Z</published>
-    <updated>2016-09-26T23:29:02.000Z</updated>
+    <updated>2017-08-30T14:26:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>由于前两周一直在老家处理重要事情，虽然朋友圈被「微信小程序」刷爆了，但并没有时间深入了解。</p>
 <p>昨天回广州之后，第一件事情就是把「微信小程序」相关的文章、开发文档、设计规范全部看了一遍，基本上明白了「微信小程序」是怎么回事，我关注的公众号都很看好「微信小程序」的前景。</p>
@@ -2257,7 +2329,7 @@
 <li>大家都去挖金子，你可以去边上卖水。</li>
 <li>关注排名100开外的App，估计这些突破口比较大。</li>
 </ul>
-<p><img src="http://qiniu.shijiajie.com/blog/wechat-application-font-end/weixinxiaochengxu.jpg" alt=""></p>
+<p><img src="http://qn.shisb.com/blog/wechat-application-font-end/weixinxiaochengxu.jpg" alt=""></p>
 <a id="more"></a>
 <p>就在我写这篇文章的时候，「小道消息」正好推送了文章<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODIyMTE0MA==&amp;mid=2650968702&amp;idx=1&amp;sn=1398cd09b54c5a84a746a0a5f8fc6845&amp;chksm=bd3836458a4fbf5302be668a9ed65933cf93edc21b854c109d4cc8d02e1f08788807165d6d39&amp;scene=0#rd" target="_blank" rel="external">如何把握「微信小程序」这一波红利？</a>，看来我的提问也引起了 Fenng 的思考，他的文章中说，有三批人可能会享受「微信小程序」红利的，分别是：</p>
 <blockquote>
@@ -2275,14 +2347,14 @@
 </ol>
 <p>如果大家还有什么好的想法，欢迎继续补充。祝每一位前端开发者都能在这波红利中获益。</p>
 <hr>
-<h4 id="谢谢给本文提供观点的「微信公众号」："><a href="#谢谢给本文提供观点的「微信公众号」：" class="headerlink" title="谢谢给本文提供观点的「微信公众号」："></a>谢谢给本文提供观点的「微信公众号」：</h4><p>小道消息<br><img src="http://qiniu.shijiajie.com/blog/wechat-application-font-end/qrcode_WebNotes_1.jpg" alt=""></p>
-<p>槽边往事<br><img src="http://qiniu.shijiajie.com/blog/wechat-application-font-end/qrcode_bitsea_1.jpg" alt=""></p>
-<p>待字闺中<br><img src="http://qiniu.shijiajie.com/blog/wechat-application-font-end/qrcode_daiziguizhongren_1.jpg" alt=""></p>
-<p>MacTalk<br><img src="http://qiniu.shijiajie.com/blog/wechat-application-font-end/qrcode_sagacity-mac_1.jpg" alt=""></p>
-<p>姜胡说<br><img src="http://qiniu.shijiajie.com/blog/wechat-application-font-end/qrcode_shuojianghu_1.jpg" alt=""></p>
-<p>学习学习再学习<br><img src="http://qiniu.shijiajie.com/blog/wechat-application-font-end/qrcode_xiaolai-xuexi_1.jpg" alt=""></p>
-<p>JavaScript<br><img src="http://qiniu.shijiajie.com/blog/wechat-application-font-end/qrcode_JavaScriptcn_1.jpg" alt=""></p>
-<p>菜鸟教程<br><img src="http://qiniu.shijiajie.com/blog/wechat-application-font-end/qrcode_runoob_1.jpg" alt=""></p>
+<h4 id="谢谢给本文提供观点的「微信公众号」："><a href="#谢谢给本文提供观点的「微信公众号」：" class="headerlink" title="谢谢给本文提供观点的「微信公众号」："></a>谢谢给本文提供观点的「微信公众号」：</h4><p>小道消息<br><img src="http://qn.shisb.com/blog/wechat-application-font-end/qrcode_WebNotes_1.jpg" alt=""></p>
+<p>槽边往事<br><img src="http://qn.shisb.com/blog/wechat-application-font-end/qrcode_bitsea_1.jpg" alt=""></p>
+<p>待字闺中<br><img src="http://qn.shisb.com/blog/wechat-application-font-end/qrcode_daiziguizhongren_1.jpg" alt=""></p>
+<p>MacTalk<br><img src="http://qn.shisb.com/blog/wechat-application-font-end/qrcode_sagacity-mac_1.jpg" alt=""></p>
+<p>姜胡说<br><img src="http://qn.shisb.com/blog/wechat-application-font-end/qrcode_shuojianghu_1.jpg" alt=""></p>
+<p>学习学习再学习<br><img src="http://qn.shisb.com/blog/wechat-application-font-end/qrcode_xiaolai-xuexi_1.jpg" alt=""></p>
+<p>JavaScript<br><img src="http://qn.shisb.com/blog/wechat-application-font-end/qrcode_JavaScriptcn_1.jpg" alt=""></p>
+<p>菜鸟教程<br><img src="http://qn.shisb.com/blog/wechat-application-font-end/qrcode_runoob_1.jpg" alt=""></p>
 <hr>
 <h4 id="「微信小程序」文章推荐："><a href="#「微信小程序」文章推荐：" class="headerlink" title="「微信小程序」文章推荐："></a>「微信小程序」文章推荐：</h4><p><a href="https://github.com/Notedown-cn/wxopen" target="_blank" rel="external">微信小程序官方文档</a> - GitHub</p>
 <p><a href="https://github.com/Aufree/awesome-wechat-weapp" target="_blank" rel="external">微信小程序资源汇总整理</a> - GitHub</p>
@@ -2308,23 +2380,23 @@
 &lt;li&gt;大家都去挖金子，你可以去边上卖水。&lt;/li&gt;
 &lt;li&gt;关注排名100开外的App，估计这些突破口比较大。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;http://qiniu.shijiajie.com/blog/wechat-application-font-end/weixinxiaochengxu.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://qn.shisb.com/blog/wechat-application-font-end/weixinxiaochengxu.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="微信小程序" scheme="http://shijiajie.com/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <category term="微信小程序" scheme="http://shisb.com/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之对象</title>
-    <link href="http://shijiajie.com/2016/09/07/javascript-lesson-1.7-ObjectObjects/"/>
-    <id>http://shijiajie.com/2016/09/07/javascript-lesson-1.7-ObjectObjects/</id>
+    <link href="http://shisb.com/2016/09/07/javascript-lesson-1.7-ObjectObjects/"/>
+    <id>http://shisb.com/2016/09/07/javascript-lesson-1.7-ObjectObjects/</id>
     <published>2016-09-07T14:15:00.000Z</published>
     <updated>2016-10-04T07:24:49.000Z</updated>
     
@@ -2392,8 +2464,8 @@
 <p>然而有一种场景只能使用 <code>in</code> 运算符而不能使用上述属性访问的方式。<code>in</code> 可以区分不存在的属性和存在但值为 <code>undefined</code> 的属性。例如：</p>
 <figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> o = &#123; <span class="attr">x</span>: <span class="literal">undefined</span> &#125;        <span class="comment">// 属性被显式赋值为undefined</span></div><div class="line"><span class="built_in">console</span>.log(o.x !== <span class="literal">undefined</span>); <span class="comment">// false，属性存在，但值为undefined</span></div><div class="line"><span class="built_in">console</span>.log(o.y !== <span class="literal">undefined</span>); <span class="comment">// false，属性不存在</span></div><div class="line"><span class="built_in">console</span>.log(<span class="string">"x"</span> <span class="keyword">in</span> o);          <span class="comment">// true，属性存在</span></div><div class="line"><span class="built_in">console</span>.log(<span class="string">"y"</span> <span class="keyword">in</span> o);          <span class="comment">// false，属性不存在</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">delete</span> o.x);        <span class="comment">// true，删除了属性x</span></div><div class="line"><span class="built_in">console</span>.log(<span class="string">"x"</span> <span class="keyword">in</span> o);          <span class="comment">// false，属性不再存在</span></div></pre></td></tr></table></figure>
 <blockquote>
-<p>扩展阅读「JavaScript 检测原始值、引用值、属性」<br><a href="http://shijiajie.com/2016/06/20/javascript-maintainable-javascript-validate1/">http://shijiajie.com/2016/06/20/javascript-maintainable-javascript-validate1/</a></p>
-<p>扩展阅读「JavaScript 检测之 basevalidate.js」<br><a href="http://shijiajie.com/2016/06/25/javascript-maintainable-javascript-basevalidatejs/">http://shijiajie.com/2016/06/25/javascript-maintainable-javascript-basevalidatejs/</a></p>
+<p>扩展阅读「JavaScript 检测原始值、引用值、属性」<br><a href="http://shijiajie.com/2016/06/20/javascript-maintainable-javascript-validate1/" target="_blank" rel="external">http://shijiajie.com/2016/06/20/javascript-maintainable-javascript-validate1/</a></p>
+<p>扩展阅读「JavaScript 检测之 basevalidate.js」<br><a href="http://shijiajie.com/2016/06/25/javascript-maintainable-javascript-basevalidatejs/" target="_blank" rel="external">http://shijiajie.com/2016/06/25/javascript-maintainable-javascript-basevalidatejs/</a></p>
 </blockquote>
 <h2 id="枚举属性"><a href="#枚举属性" class="headerlink" title="枚举属性"></a>枚举属性</h2><p>除了检测对象的属性是否存在，我们还会经常遍历对象的属性。通常使用 <code>for-in</code> 循环遍历，ECMAScript 5提供了两个更好用的替代方案。</p>
 <p><code>for-in</code> 循环可以在循环体中遍历对象中所有可枚举的属性（包括自有属性和继承的属性），把属性名称赋值给循环变量。对象继承的内置方法不可枚举的，但在代码中给对象添加的属性都是可枚举的。例如：</p>
@@ -2452,21 +2524,21 @@
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
   <entry>
     <title>《JavaScript 闯关记》之语句</title>
-    <link href="http://shijiajie.com/2016/08/30/javascript-lesson-1.6-Statements/"/>
-    <id>http://shijiajie.com/2016/08/30/javascript-lesson-1.6-Statements/</id>
+    <link href="http://shisb.com/2016/08/30/javascript-lesson-1.6-Statements/"/>
+    <id>http://shisb.com/2016/08/30/javascript-lesson-1.6-Statements/</id>
     <published>2016-08-30T14:45:00.000Z</published>
     <updated>2016-11-22T12:27:55.000Z</updated>
     
@@ -2794,820 +2866,14 @@
     
     </summary>
     
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
-    
-    
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
-    
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《JavaScript 闯关记》之表达式和运算符</title>
-    <link href="http://shijiajie.com/2016/08/23/javascript-lesson-1.5-Expression&amp;Operators/"/>
-    <id>http://shijiajie.com/2016/08/23/javascript-lesson-1.5-Expression&amp;Operators/</id>
-    <published>2016-08-23T14:45:00.000Z</published>
-    <updated>2016-11-22T12:26:37.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="表达式"><a href="#表达式" class="headerlink" title="表达式"></a>表达式</h2><p>表达式是由数字、运算符、数字分组符号（如括号）、自由变量和约束变量等以能求得数值的有意义排列方法所得的组合。JavaScript 表达式主要有以下几种形式：</p>
-<ul>
-<li>原始表达式：常量、变量、保留字。</li>
-<li>对象、数组初始化表达式：<code>var obj={a:1,b:2};</code>，<code>var arr=[1,2,3];</code>。</li>
-<li>函数定义表达式：<code>var fn=function(){}</code>。</li>
-<li>属性访问表达式：<code>Math.abs</code>。</li>
-<li>调用表达式：<code>alert(&#39;hello&#39;);</code>。</li>
-<li>对象创建表达式：<code>new object();</code>。</li>
-</ul>
-<h2 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h2><p>JavaScript 中的运算符用于算术表达式、比较表达式、逻辑表达式、赋值表达式等。需要注意的是，大多数运算符都是由标点符号表示的，比如 <code>+</code> 和 <code>=</code>。而另外一些运算符则是由关键字表示的，比如 <code>typeof</code> 和 <code>instanceof</code>，关键字运算符和标点符号都是正规的运算符。</p>
-<p>下表列出了 JavaScript 中所有的运算符，并按照运算符的优先级排序的，前面的运算符优先级要高于后面的运算符优先级，被空行分隔开来的运算符具有不同的优先级。标题为 A 的列表示运算符的结合性（Associativity），L 表示从左至右、R 表示从右至左，标题为 N 的列表示操作数的个数（Number）。</p>
-<a id="more"></a> 
-<table>
-<thead>
-<tr>
-<th>运算符</th>
-<th>操作</th>
-<th>A</th>
-<th>N</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>++</code></td>
-<td>前/后增量</td>
-<td>R</td>
-<td>1</td>
-</tr>
-<tr>
-<td><code>--</code></td>
-<td>前/后增量</td>
-<td>R</td>
-<td>1</td>
-</tr>
-<tr>
-<td><code>-</code></td>
-<td>求反</td>
-<td>R</td>
-<td>1</td>
-</tr>
-<tr>
-<td><code>+</code></td>
-<td>转换为数字</td>
-<td>R</td>
-<td>1</td>
-</tr>
-<tr>
-<td><code>~</code></td>
-<td>按位求反</td>
-<td>R</td>
-<td>1</td>
-</tr>
-<tr>
-<td><code>!</code></td>
-<td>逻辑非</td>
-<td>R</td>
-<td>1</td>
-</tr>
-<tr>
-<td><code>delete</code></td>
-<td>删除属性</td>
-<td>R</td>
-<td>1</td>
-</tr>
-<tr>
-<td><code>typeof</code></td>
-<td>检测类型</td>
-<td>R</td>
-<td>1</td>
-</tr>
-<tr>
-<td><code>void</code></td>
-<td>返回<code>undefined</code></td>
-<td>R</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><code>*</code> <code>/</code> <code>%</code></td>
-<td>乘，除，求模</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>+</code> <code>-</code></td>
-<td>加，减</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>+</code></td>
-<td>字符串连接</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>&lt;&lt;</code></td>
-<td>左移位</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>&gt;&gt;</code></td>
-<td>有符号右移</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>&gt;&gt;&gt;</code></td>
-<td>无符号右移</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>&lt;</code> <code>&lt;=</code> <code>&gt;</code> <code>&gt;=</code></td>
-<td>比较数字顺序</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>&lt;</code> <code>&lt;=</code> <code>&gt;</code> <code>&gt;=</code></td>
-<td>比较字母顺序</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>instanceof</code></td>
-<td>测试对象类</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>in</code></td>
-<td>测试属性是否存在</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><code>==</code></td>
-<td>判断相等</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>!=</code></td>
-<td>判断不等</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>===</code></td>
-<td>判断恒等</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>!==</code></td>
-<td>判断恒不等</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>&amp;</code></td>
-<td>按位与</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><code>^</code></td>
-<td>按位异或</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>┃</code></td>
-<td>按位或</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><code>&amp;&amp;</code></td>
-<td>逻辑与</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><code>┃┃</code></td>
-<td>逻辑或</td>
-<td>L</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>?:</code></td>
-<td>条件运算符</td>
-<td>R</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><code>=</code></td>
-<td>赋值</td>
-<td>R</td>
-<td>2</td>
-</tr>
-<tr>
-<td><code>*=</code> <code>/=</code> <code>%=</code> <br> <code>+=</code> <code>-=</code> <code>&amp;=</code> <br>  <code>&lt;&lt;=</code> <code>&gt;&gt;=</code> <br> <code>^=</code> <code>┃=</code> <code>&gt;&gt;&gt;=</code></td>
-<td>运算且赋值</td>
-<td>R</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><code>,</code></td>
-<td>忽略第一个操作数，<br> 返回第二个操作数</td>
-<td>L</td>
-<td>2</td>
-</tr>
-</tbody>
-</table>
-<blockquote>
-<p>因为 <code>|</code> 是制表符，会导致格式混乱，所以表格中的 <code>|</code> 均以 <code>┃</code> 代替。</p>
-</blockquote>
-<h3 id="一元运算符"><a href="#一元运算符" class="headerlink" title="一元运算符"></a>一元运算符</h3><h4 id="delete-运算符"><a href="#delete-运算符" class="headerlink" title="delete 运算符"></a><code>delete</code> 运算符</h4><p><code>delete</code> 运算符用来删除对象属性或者数组元素，如果删除成功或所删除的目标不存在，<code>delete</code> 将返回 <code>true</code>。然而，并不是所有的属性都可删除，一些内置核心和客户端属性是不能删除的，通过 <code>var</code> 语句声明的变量不能删除，通过 <code>function</code> 语句定义的函数也是不能删除的。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> o = &#123; <span class="attr">x</span>: <span class="number">1</span>, <span class="attr">y</span>: <span class="number">2</span>&#125;;          <span class="comment">// 定义一个对象</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">delete</span> o.x);        <span class="comment">// true，删除一个属性</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">delete</span> o.x);        <span class="comment">// true，什么都没做，x 在已上一步被删除</span></div><div class="line"><span class="built_in">console</span>.log(<span class="string">"x"</span> <span class="keyword">in</span> o);          <span class="comment">// false，这个属性在对象中不再存在</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">delete</span> o.toString); <span class="comment">// true，什么也没做，toString是继承来的</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">delete</span> <span class="number">1</span>);          <span class="comment">// true，无意义</span></div><div class="line"></div><div class="line"><span class="keyword">var</span> a = [<span class="number">1</span>,<span class="number">2</span>,<span class="number">3</span>];                <span class="comment">// 定义一个数组</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">delete</span> a[<span class="number">2</span>]);       <span class="comment">// true，删除最后一个数组元素</span></div><div class="line"><span class="built_in">console</span>.log(<span class="number">2</span> <span class="keyword">in</span> a);            <span class="comment">// false，元素2在数组中不再存在</span></div><div class="line"><span class="built_in">console</span>.log(a.length);          <span class="comment">// 3，数组长度并不会因 delete 而改变</span></div><div class="line"><span class="built_in">console</span>.log(a[<span class="number">2</span>]);              <span class="comment">// undefined，元素2所在的位置被空了出来</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">delete</span> a);          <span class="comment">// false，通过 var 语句声明的变量不能删除</span></div><div class="line"></div><div class="line"><span class="function"><span class="keyword">function</span> <span class="title">f</span>(<span class="params">args</span>)</span>&#123;&#125;              <span class="comment">// 定义一个函数</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">delete</span> f);          <span class="comment">// false，通过 function 语句声明的函数不能删除</span></div></pre></td></tr></table></figure>
-<h4 id="void-运算符"><a href="#void-运算符" class="headerlink" title="void 运算符"></a><code>void</code> 运算符</h4><p><code>void</code> 运算符可以应用于任何表类型的表达式，表达式会被执行，但计算结果会被忽略并返回 <code>undefined</code>。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">void</span> <span class="number">0</span>;</div><div class="line"><span class="keyword">void</span> <span class="string">"you are useless?"</span>;</div><div class="line"><span class="keyword">void</span> <span class="literal">false</span>;</div><div class="line"><span class="keyword">void</span> [];</div><div class="line"><span class="keyword">void</span> /(useless)/ig;</div><div class="line"><span class="keyword">void</span> <span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123; <span class="built_in">console</span>.log(<span class="string">"you are so useless?"</span>); &#125;</div><div class="line"><span class="comment">// always return undefined</span></div></pre></td></tr></table></figure>
-<blockquote>
-<p>扩展阅读「谈谈 JavaScript 中的 void 运算符」<br><a href="https://segmentfault.com/a/1190000000474941" target="_blank" rel="external">https://segmentfault.com/a/1190000000474941</a></p>
-</blockquote>
-<h4 id="typeof-运算符"><a href="#typeof-运算符" class="headerlink" title="typeof 运算符"></a><code>typeof</code> 运算符</h4><blockquote>
-<p>请参见<a href="https://github.com/stone0090/javascript-lessons/tree/master/1.4-Variable%26Types#typeof-运算符" target="_blank" rel="external">「变量和数据类型」-「数据类型」-「<code>typeof</code> 运算符」</a>。</p>
-</blockquote>
-<h4 id="运算符-1"><a href="#运算符-1" class="headerlink" title="++ -- 运算符"></a><code>++</code> <code>--</code> 运算符</h4><p><code>++</code> <code>--</code> 递增递减运算符借鉴自 C 语言，它们分前置型和后置型，作用是改变一个变量的值。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> a = <span class="number">5</span>;</div><div class="line"><span class="built_in">console</span>.log(a++);   <span class="comment">// 5</span></div><div class="line"><span class="built_in">console</span>.log(++a);   <span class="comment">// 7</span></div><div class="line"><span class="built_in">console</span>.log(a--);   <span class="comment">// 7</span></div><div class="line"><span class="built_in">console</span>.log(--a);   <span class="comment">// 5</span></div></pre></td></tr></table></figure>
-<h4 id="运算符-2"><a href="#运算符-2" class="headerlink" title="+ - 运算符"></a><code>+</code> <code>-</code> 运算符</h4><p>当 <code>+</code> <code>-</code> 作为一元运算符时，应用于数值，表示数值的正负。应用于非数值，先按 <code>Number()</code> 转型函数对这个值执行转换，再表示该值的正负。</p>
-<h4 id="运算符-3"><a href="#运算符-3" class="headerlink" title="~ ! 运算符"></a><code>~</code> <code>!</code> 运算符</h4><blockquote>
-<p><code>~</code> 按位非运算符，请参见下面<a href="https://github.com/stone0090/javascript-lessons/tree/master/1.5-Expression&amp;Operators#位运算符" target="_blank" rel="external">「位运算符」</a>。<br><code>!</code> 逻辑非运算符，请参见下面<a href="https://github.com/stone0090/javascript-lessons/tree/master/1.5-Expression&amp;Operators#逻辑运算符" target="_blank" rel="external">「逻辑运算符」</a>。</p>
-</blockquote>
-<h3 id="乘性运算符"><a href="#乘性运算符" class="headerlink" title="乘性运算符"></a>乘性运算符</h3><p>JavaScript 定义了3个乘性运算符：乘法、除法和求模。这些运算符与 C 语言的相应运算符用途类似，只不过在操作数为非数值的情况下会执行自动的类型转换。如果参与乘法计算的某个操作数不是数值，后台会先使用 <code>Number()</code> 转型函数将其转换为数值。也就是说，空字符串将被当作 <code>0</code>，布尔值 <code>true</code> 将被当作 <code>1</code>。</p>
-<h4 id="乘法运算符"><a href="#乘法运算符" class="headerlink" title="* 乘法运算符"></a><code>*</code> 乘法运算符</h4><p>用于计算两个数值的乘积，在处理特殊值的情况下，乘法运算符遵循下列特殊的规则：</p>
-<ul>
-<li>如果操作数都是数值，执行常规的乘法计算，即两个正数或两个负数相乘的结果还是正数，而如果只有一个操作数有符号，那么结果就是负数。如果乘积超过了 JavaScript 数值的表示范围，则返回 <code>Infinity</code> 或 <code>-Infinity</code>；</li>
-<li>如果有一个操作数是 <code>NaN</code>，则结果是 <code>NaN</code>；</li>
-<li>如果是 <code>Infinity</code> 与 <code>0</code> 相乘，则结果是 <code>NaN</code>；</li>
-<li>如果是 <code>Infinity</code> 与非 <code>0</code> 数值相乘，则结果是 <code>Infinity</code> 或 <code>-Infinity</code>，取决于有符号操作数的符号；</li>
-<li>如果是 <code>Infinity</code> 与 <code>Infinity</code> 相乘，则结果是 <code>Infinity</code>；<br>如果有一个操作数不是数值，则在后台调用 <code>Number()</code>将其转换为数值，然后再应用上面的规则。</li>
-</ul>
-<h4 id="除法运算符"><a href="#除法运算符" class="headerlink" title="/ 除法运算符"></a><code>/</code> 除法运算符</h4><p>用于计算两个数值的商，与乘法运算符类似，除法运算符对特殊的值也有特殊的处理规则。这些规则如下：</p>
-<ul>
-<li>如果操作数都是数值，执行常规的除法计算，即两个正数或两个负数相除的结果还是正数，而如果只有一个操作数有符号，那么结果就是负数。如果商超过了 JavaScript 数值的表示范围，则返回 <code>Infinity</code> 或 <code>-Infinity</code>；</li>
-<li>如果有一个操作数是 <code>NaN</code>，则结果是 <code>NaN</code>；</li>
-<li>如果是 <code>Infinity</code> 被 <code>Infinity</code> 除，则结果是 <code>NaN</code>；</li>
-<li>如果是零被零除，则结果是 <code>NaN</code>；</li>
-<li>如果是非零的有限数被零除，则结果是 <code>Infinity</code> 或 <code>-Infinity</code>，取决于有符号操作数的符号；</li>
-<li>如果是 <code>Infinity</code> 被任何非零数值除，则结果是 <code>Infinity</code> 或 <code>-Infinity</code>，取决于有符号操作数的符号；</li>
-<li>如果有一个操作数不是数值，则在后台调用 <code>Number()</code> 将其转换为数值，然后再应用上面的规则。</li>
-</ul>
-<h4 id="求模运算符"><a href="#求模运算符" class="headerlink" title="% 求模运算符"></a><code>%</code> 求模运算符</h4><p>用于计算两个数值的余数，与另外两个乘性运算符类似，求模运算符会遵循下列特殊规则来处理特殊的值：</p>
-<ul>
-<li>如果操作数都是数值，执行常规的除法计算，返回除得的余数；</li>
-<li>如果被除数是无穷大值而除数是有限大的数值，则结果是 <code>NaN</code>；</li>
-<li>如果被除数是有限大的数值而除数是零，则结果是 <code>NaN</code>；</li>
-<li>如果是 <code>Infinity</code> 被 <code>Infinity</code> 除，则结果是 <code>NaN</code>；</li>
-<li>如果被除数是有限大的数值而除数是无穷大的数值，则结果是被除数；</li>
-<li>如果被除数是零，则结果是零；</li>
-<li>如果有一个操作数不是数值，则在后台调用 <code>Number()</code> 将其转换为数值，然后再应用上面的规则。</li>
-</ul>
-<h3 id="加性运算符"><a href="#加性运算符" class="headerlink" title="加性运算符"></a>加性运算符</h3><p>加法和减法这两个加性运算符应该说是编程语言中最简单的算术运算符了。但是在 JavaScript 中，这两个运算符却都有一系列的特殊行为。与乘性运算符类似，加性运算符也会在后台转换不同的数据类型。然而，对于加性运算符而言，相应的转换规则还稍微有点复杂。</p>
-<h4 id="加法运算符"><a href="#加法运算符" class="headerlink" title="+ 加法运算符"></a><code>+</code> 加法运算符</h4><p>如果两个运算符都是数值，执行常规的加法计算，然后根据下列规则返回结果：</p>
-<ul>
-<li>如果有一个操作数是 <code>NaN</code>，则结果是 <code>NaN</code>；</li>
-<li>如果是 <code>Infinity</code> 加 <code>Infinity</code>，则结果是 <code>Infinity</code>；</li>
-<li>如果是 <code>-Infinity</code> 加 <code>-Infinity</code>，则结果是 <code>-Infinity</code>；</li>
-<li>如果是 <code>Infinity</code> 加- <code>Infinity</code>，则结果是 <code>NaN</code>；</li>
-<li>如果是 <code>+0</code> 加 <code>+0</code>，则结果是 <code>+0</code>；</li>
-<li>如果是 <code>-0</code> 加 <code>-0</code>，则结果是 <code>-0</code>；</li>
-<li>如果是 <code>+0</code> 加 <code>-0</code>，则结果是 <code>+0</code>;</li>
-</ul>
-<p>如果有一个操作数不是数值，那么就要应用如下规则：</p>
-<ul>
-<li>如果两个操作数都是字符串，则将第二个操作数与第一个操作数拼接起来；</li>
-<li>如果只有一个操作数是字符串，则将另一个操作数转换为字符串，然后再将两个字符串拼接起来。</li>
-<li>如果有一个操作数是对象、数值或布尔值，则调用它们的 <code>toString()</code> 方法取得相应的字符串值，然后再应用前面关于字符串的规则。对于 <code>undefined</code> 和 <code>null</code>，则分别调用 <code>String()</code> 函数并取得字符串 <code>&quot;undefined&quot;</code> 和 <code>&quot;null&quot;</code>。</li>
-<li>如果是 <code>null</code> 加 <code>null</code>，则结果是 <code>0</code>;</li>
-<li>如果是 <code>undefined</code> 加 <code>undefined</code>，则结果是 <code>NaN</code>;</li>
-</ul>
-<p>下面来举几个例子：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> result1 = <span class="number">5</span> + <span class="number">5</span>;            <span class="comment">// 两个数值相加</span></div><div class="line"><span class="built_in">console</span>.log(result1);           <span class="comment">// 10</span></div><div class="line"></div><div class="line"><span class="keyword">var</span> result2 = <span class="number">5</span> + <span class="string">"5"</span>;          <span class="comment">// 一个数值和一个字符串相加</span></div><div class="line"><span class="built_in">console</span>.log(result2);           <span class="comment">// "55"</span></div><div class="line"></div><div class="line"><span class="keyword">var</span> num1 = <span class="number">5</span>;</div><div class="line"><span class="keyword">var</span> num2 = <span class="number">10</span>;</div><div class="line"><span class="keyword">var</span> message = <span class="string">"The sum of 5 and 10 is "</span> + num1 + num2;</div><div class="line"><span class="built_in">console</span>.log(message);   <span class="comment">// "The sum of 5 and 10 is 510"，如何修改？</span></div></pre></td></tr></table></figure>
-<h4 id="减法运算符"><a href="#减法运算符" class="headerlink" title="- 减法运算符"></a><code>-</code> 减法运算符</h4><p>如果两个运算符都是数值，执行常规的减法计算，然后根据下列规则返回结果：</p>
-<ul>
-<li>如果有一个操作数是 <code>NaN</code>，则结果是 <code>NaN</code>；</li>
-<li>如果是 <code>Infinity</code> 减 <code>Infinity</code>，则结果是 <code>NaN</code>；</li>
-<li>如果是 <code>-Infinity</code> 减 <code>-Infinity</code>，则结果是 <code>NaN</code>；</li>
-<li>如果是 <code>Infinity</code> 减 <code>-Infinity</code>，则结果是 <code>Infinity</code>；</li>
-<li>如果是 <code>-Infinity</code> 减 <code>Infinity</code>，则结果是 <code>-Infinity</code>；</li>
-<li>如果是 <code>+0</code> 减 <code>+0</code>，则结果是 <code>+0</code>；</li>
-<li>如果是 <code>+0</code> 减 <code>-0</code>，则结果是 <code>-0</code>；</li>
-<li>如果是 <code>-0</code> 减 <code>-0</code>，则结果是 <code>+0</code>；</li>
-</ul>
-<p>如果有一个操作数不是数值，那么就要应用如下规则：</p>
-<ul>
-<li>如果有一个操作数是字符串、布尔值、<code>null</code> 或 <code>undefined</code>，则先在后台调用 <code>Number()</code> 函数将其转换为数值，然后再根据前面的规则执行减法计算。如果转换的结果是 <code>NaN</code>，则减法的结果就是 <code>NaN</code>；</li>
-<li>如果有一个操作数是对象，则调用对象的 <code>valueOf()</code> 方法以取得表示该对象的数值。如果得到的值是 <code>NaN</code>，则减法的结果就是 <code>NaN</code>。如果对象没有 <code>valueOf()</code> 方法，则调用其 <code>toString()</code>方法并将得到的字符串转换为数值。</li>
-<li>如果是 <code>null</code> 减 <code>null</code>，则结果是 <code>0</code>;</li>
-<li>如果是 <code>undefined</code> 减 <code>undefined</code>，则结果是 <code>NaN</code>;</li>
-</ul>
-<p>下面来举几个例子：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> result1 = <span class="number">5</span> - <span class="literal">true</span>;         <span class="comment">// 4，因为true被转换成了1</span></div><div class="line"><span class="keyword">var</span> result2 = <span class="literal">NaN</span> - <span class="number">1</span>;          <span class="comment">// NaN</span></div><div class="line"><span class="keyword">var</span> result3 = <span class="number">5</span> - <span class="number">3</span>;            <span class="comment">// 2</span></div><div class="line"><span class="keyword">var</span> result4 = <span class="number">5</span> - <span class="string">""</span>;           <span class="comment">// 5，因为"" 被转换成了0</span></div><div class="line"><span class="keyword">var</span> result5 = <span class="number">5</span> - <span class="string">"2"</span>;          <span class="comment">// 3，因为"2"被转换成了2</span></div><div class="line"><span class="keyword">var</span> result6 = <span class="number">5</span> - <span class="literal">null</span>;         <span class="comment">// 5，因为null被转换成了0</span></div></pre></td></tr></table></figure>
-<h3 id="等值运算符"><a href="#等值运算符" class="headerlink" title="等值运算符"></a>等值运算符</h3><p>确定两个变量是否相等是编程中的一个非常重要的操作。在比较简单数据类型之间的相等性时，问题还比较简单。但在涉及到对象之间的比较时，问题就变得复杂了。最早的 JavaScript 中的相等和不等运算符会在执行比较之前，先将对象转换成相似的类型。后来，有人提出了这种转换到底是否合理的质疑。最后，JavaScript 的解决方案就是提供两组运算符：相等和不相等（先转换再比较），恒等和不恒等（仅比较而不转换）。</p>
-<h4 id="运算符-4"><a href="#运算符-4" class="headerlink" title="== != 运算符"></a><code>==</code> <code>!=</code> 运算符</h4><p><code>==</code> <code>!=</code> 这两个运算符都会先转换操作数（通常称为强制转型），然后再比较它们的相等性。在转换不同的数据类型时，相等和不相等运算符遵循下列基本规则：</p>
-<ul>
-<li>如果有一个操作数是布尔值，则在比较相等性之前先将其转换为数值（<code>false</code> 转换为 <code>0</code>，而 <code>true</code> 转换为 <code>1</code>）；</li>
-<li>如果一个操作数是字符串，另一个操作数是数值，在比较相等性之前先将字符串转换为数值；</li>
-<li>如果一个操作数是对象，另一个操作数不是，则调用对象的 <code>valueOf()</code> 方法，用得到的基本类型值按照前面的规则进行比较；</li>
-<li><code>null</code> 和 <code>undefined</code> 是相等的。<br>要比较相等性之前，不能将 <code>null</code> 和 <code>undefined</code> 转换成其他任何值。</li>
-<li>如果有一个操作数是 <code>NaN</code>，则相等运算符返回 <code>false</code>，而不相等运算符返回 <code>true</code>。重要提示：即使两个操作数都是 <code>NaN</code>，相等运算符也返回 <code>false</code>；因为按照规则，<code>NaN</code> 不等于 <code>NaN</code>。</li>
-<li>如果两个操作数都是对象，则比较它们是不是同一个对象。如果两个操作数都指向同一个对象，则相等运算符返回 <code>true</code>；否则，返回 <code>false</code>。</li>
-</ul>
-<p>列出了一些特殊情况及比较结果：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line"><span class="literal">null</span> == <span class="literal">undefined</span>   <span class="comment">// true</span></div><div class="line"><span class="string">"NaN"</span> == <span class="literal">NaN</span>        <span class="comment">// false</span></div><div class="line"><span class="number">5</span> == <span class="literal">NaN</span>            <span class="comment">// false</span></div><div class="line"><span class="literal">NaN</span> == <span class="literal">NaN</span>          <span class="comment">// false</span></div><div class="line"><span class="literal">NaN</span> != <span class="literal">NaN</span>          <span class="comment">// true</span></div><div class="line"><span class="literal">false</span> == <span class="number">0</span>          <span class="comment">// true</span></div><div class="line"><span class="literal">true</span> == <span class="number">1</span>           <span class="comment">// true</span></div><div class="line"><span class="literal">true</span> == <span class="number">2</span>           <span class="comment">// false</span></div><div class="line"><span class="literal">undefined</span> == <span class="number">0</span>      <span class="comment">// false</span></div><div class="line"><span class="literal">null</span> == <span class="number">0</span>           <span class="comment">// false</span></div><div class="line"><span class="string">"5"</span> == <span class="number">5</span>            <span class="comment">// true</span></div></pre></td></tr></table></figure>
-<h4 id="运算符-5"><a href="#运算符-5" class="headerlink" title="=== !== 运算符"></a><code>===</code> <code>!==</code> 运算符</h4><p>除了在比较之前不转换操作数之外，恒等和不恒等运算符与相等和不相等运算符没有什么区别。它只在两个操作数未经转换就相等的情况下返回 <code>true</code>，如下面的例子所示：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> result1 = (<span class="string">"55"</span> == <span class="number">55</span>);     <span class="comment">// true，因为转换后相等</span></div><div class="line"><span class="keyword">var</span> result2 = (<span class="string">"55"</span> === <span class="number">55</span>);    <span class="comment">// false，因为不同的数据类型不相等</span></div><div class="line"><span class="keyword">var</span> result3 = (<span class="literal">null</span> == <span class="literal">undefined</span>)   <span class="comment">// true，因为它们是类似的值</span></div><div class="line"><span class="keyword">var</span> result4 = (<span class="literal">null</span> === <span class="literal">undefined</span>)  <span class="comment">// false，因为它们是不同类型的值</span></div></pre></td></tr></table></figure>
-<h3 id="关系运算符"><a href="#关系运算符" class="headerlink" title="关系运算符"></a>关系运算符</h3><h4 id="lt-gt-lt-gt-运算符"><a href="#lt-gt-lt-gt-运算符" class="headerlink" title="&lt; &gt; &lt;= &gt;= 运算符"></a><code>&lt;</code> <code>&gt;</code> <code>&lt;=</code> <code>&gt;=</code> 运算符</h4><p><code>&lt;</code> 小于、<code>&gt;</code> 大于、<code>&lt;=</code> 小于等于、 <code>&gt;=</code> 大于等于 这几个关系运算符用于对两个值进行比较返回一个布尔值。与 JavaScript 中的其他运算符一样，当关系运算符的操作数使用了非数值时，也要进行数据转换或完成某些奇怪的操作。以下就是相应的规则。</p>
-<ul>
-<li>如果两个操作数都是数值，则执行数值比较。</li>
-<li>如果两个操作数都是字符串，则比较两个字符串对应的字符编码值（可以通过字符串的 <code>charCodeAt()</code> 函数获取字符编码值）。</li>
-<li>如果一个操作数是数值，则将另一个操作数转换为一个数值，然后执行数值比较。</li>
-<li>如果一个操作数是对象，则调用这个对象的 <code>valueOf()</code> 方法，用得到的结果按照前面的规则执行比较。如果对象没有 <code>valueOf()</code>方法，则调用 <code>toString()</code>方法，并用得到的结果根据前面的规则执行比较。</li>
-<li>如果一个操作数是布尔值，则先将其转换为数值，然后再执行比较。</li>
-</ul>
-<p>请思考下面几个例子的结果是如何得出的：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> result1 = <span class="string">"Brick"</span> &lt; <span class="string">"alphabet"</span>;     <span class="comment">// true</span></div><div class="line"><span class="keyword">var</span> result2 = <span class="string">"brick"</span> &lt; <span class="string">"alphabet"</span>;     <span class="comment">// false</span></div><div class="line"><span class="keyword">var</span> result3 = <span class="string">"23"</span> &lt; <span class="string">"3"</span>;   <span class="comment">// true</span></div><div class="line"><span class="keyword">var</span> result4 = <span class="string">"23"</span> &lt; <span class="number">3</span>;     <span class="comment">// false</span></div><div class="line"><span class="keyword">var</span> result5 = <span class="string">"a"</span> &lt; <span class="number">3</span>;      <span class="comment">// false</span></div><div class="line"><span class="keyword">var</span> result6 = <span class="literal">NaN</span> &lt; <span class="number">3</span>;      <span class="comment">// false</span></div><div class="line"><span class="keyword">var</span> result7 = <span class="literal">NaN</span> &gt;= <span class="number">3</span>;     <span class="comment">// false</span></div></pre></td></tr></table></figure>
-<h4 id="in-运算符"><a href="#in-运算符" class="headerlink" title="in 运算符"></a><code>in</code> 运算符</h4><p><code>in</code> 运算符希望它的左操作数是一个字符串或可以转换为字符串，希望它的右操作数是一个对象。如果右侧的对象拥有一个名为左操作数值的属性名，那么表达式返回 <code>true</code>，例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> point = &#123; <span class="attr">x</span>:<span class="number">1</span>, <span class="attr">y</span>:<span class="number">1</span> &#125;;       <span class="comment">// 定义一个对象</span></div><div class="line"><span class="string">"x"</span> <span class="keyword">in</span> point                    <span class="comment">// true，对象有一个名为"x"的属性</span></div><div class="line"><span class="string">"z"</span> <span class="keyword">in</span> point                    <span class="comment">// false，对象中不存在名为"z"的属性</span></div><div class="line"><span class="string">"toString"</span> <span class="keyword">in</span> point             <span class="comment">// true，对象继承了toString()方法</span></div><div class="line"></div><div class="line"><span class="keyword">var</span> data = [<span class="number">7</span>,<span class="number">8</span>,<span class="number">9</span>];             <span class="comment">// 拥有三个元素的数组</span></div><div class="line"><span class="string">"0"</span> <span class="keyword">in</span> data                     <span class="comment">// true，数组包含元素"0"</span></div><div class="line"><span class="number">1</span> <span class="keyword">in</span> data                       <span class="comment">// true，数字转换为字符串</span></div><div class="line"><span class="number">3</span> <span class="keyword">in</span> data                       <span class="comment">// false，没有索引为3的元素</span></div></pre></td></tr></table></figure>
-<h4 id="instanceof-运算符"><a href="#instanceof-运算符" class="headerlink" title="instanceof 运算符"></a><code>instanceof</code> 运算符</h4><p><code>instanceof</code> 运算符希望左操作数是一个对象，右操作数标识对象的类。如果左侧的对象是右侧类的实例，则表达式返回 <code>true</code>；否则返回 <code>false</code>。后面会讲 JavaScript 中对象的类是通过初始化它们的构造函数来定义的。这样的话，<code>instanceof</code> 的右操作数应当是一个函数。比如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> d = <span class="keyword">new</span> <span class="built_in">Date</span>();     <span class="comment">// 通过 Date() 构造函数来创建一个新对象</span></div><div class="line">d <span class="keyword">instanceof</span> <span class="built_in">Date</span>;      <span class="comment">// true，d 是由 Date() 创建的</span></div><div class="line">d <span class="keyword">instanceof</span> <span class="built_in">Object</span>;    <span class="comment">// true，所有的对象都是 Object 的实例</span></div><div class="line">d <span class="keyword">instanceof</span> <span class="built_in">Number</span>;    <span class="comment">// false，d 不是一个 Number 对象</span></div><div class="line"></div><div class="line"><span class="keyword">var</span> a = [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>];      <span class="comment">// 通过数组字面量的写法创建一个数组</span></div><div class="line">a <span class="keyword">instanceof</span> <span class="built_in">Array</span>;     <span class="comment">// true，a 是一个数组</span></div><div class="line">a <span class="keyword">instanceof</span> <span class="built_in">Object</span>;    <span class="comment">// true，所有的数组都是对象</span></div><div class="line">a <span class="keyword">instanceof</span> <span class="built_in">RegExp</span>;    <span class="comment">// false，数组不是正则表达式</span></div></pre></td></tr></table></figure>
-<p>需要注意的是，所有的对象都是 <code>Object</code> 的实例。当通过 <code>instanceof</code> 判断一个对象是否是一个类的实例的时候，这个判断也会包含对「父类」的检测。如果 <code>instanceof</code> 的左操作数不是对象的话，<code>instanceof</code> 返回 <code>false</code>。如果右操作数不是函数，则抛出一个类型错误异常。</p>
-<h3 id="逻辑运算符"><a href="#逻辑运算符" class="headerlink" title="逻辑运算符"></a>逻辑运算符</h3><p>逻辑运算符是对操作数进行布尔算术运算，经常和关系运算符一起配合使用，逻辑运算符将多个关系表达式组合起来组成一个更复杂的表达式。</p>
-<h4 id="amp-amp-逻辑与"><a href="#amp-amp-逻辑与" class="headerlink" title="&amp;&amp; 逻辑与"></a><code>&amp;&amp;</code> 逻辑与</h4><p>逻辑与操作可以应用于任何类型的操作数，而不仅仅是布尔值。在有一个操作数不是布尔值的情况下，逻辑与操作不一定返回布尔值；此时，它遵循下列规则：</p>
-<ul>
-<li>如果第一个操作数是对象，则返回第二个操作数；</li>
-<li>如果第二个操作数是对象，则只有在第一个操作数的求值结果为 <code>true</code> 的情况下才会返回该对象；</li>
-<li>如果两个操作数都是对象，则返回第二个操作数；</li>
-<li>如果有一个操作数是 <code>null</code>，则返回 <code>null</code>；</li>
-<li>如果有一个操作数是 <code>NaN</code>，则返回 <code>NaN</code>；</li>
-<li>如果有一个操作数是 <code>undefined</code>，则返回 <code>undefined</code>。</li>
-</ul>
-<p>逻辑与操作属于短路操作，即如果第一个操作数能够决定结果，那么就不会再对第二个操作数求值。对于逻辑与操作而言，如果第一个操作数是 <code>false</code>，无论第二个操作数是什么值，结果都不再可能是 <code>true</code> 了。</p>
-<h4 id="逻辑或"><a href="#逻辑或" class="headerlink" title="|| 逻辑或"></a><code>||</code> 逻辑或</h4><p>与逻辑与操作相似，如果有一个操作数不是布尔值，逻辑或也不一定返回布尔值；此时，它遵循下列规则：</p>
-<ul>
-<li>如果第一个操作数是对象，则返回第一个操作数；</li>
-<li>如果第一个操作数的求值结果为 <code>false</code>，则返回第二个操作数；</li>
-<li>如果两个操作数都是对象，则返回第一个操作数；</li>
-<li>如果两个操作数都是 <code>null</code>，则返回 <code>null</code>；</li>
-<li>如果两个操作数都是 <code>NaN</code>，则返回 <code>NaN</code>；</li>
-<li>如果两个操作数都是 <code>undefined</code>，则返回 <code>undefined</code>。</li>
-</ul>
-<p>与逻辑与运算符相似，逻辑或运算符也是短路运算符。也就是说，如果第一个操作数的求值结果为 <code>true</code>，就不会对第二个操作数求值了。</p>
-<h4 id="逻辑非"><a href="#逻辑非" class="headerlink" title="!  逻辑非"></a><code>!</code>  逻辑非</h4><p>逻辑非操作可以应用于任何类型的操作数，无论这个值是什么数据类型，这个运算符都会返回一个布尔值。逻辑非运算符首先会将它的操作数转换为一个布尔值，然后再对其求反。逻辑非运算符遵循下列规则：</p>
-<ul>
-<li>如果操作数是一个对象，返回 <code>false</code>；</li>
-<li>如果操作数是一个空字符串，返回 <code>true</code>；</li>
-<li>如果操作数是一个非空字符串，返回 <code>false</code>；</li>
-<li>如果操作数是数值 <code>0</code>，返回 <code>true</code>；</li>
-<li>如果操作数是任意非 <code>0</code> 数值（包括 <code>Infinity</code>），返回 <code>false</code>；</li>
-<li>如果操作数是 <code>null</code>，返回 <code>true</code>；</li>
-<li>如果操作数是 <code>NaN</code>，返回 <code>true</code>；</li>
-<li>如果操作数是 <code>undefined</code>，返回 <code>true</code>。</li>
-</ul>
-<p>下面几个例子展示了应用上述规则的结果：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(!<span class="literal">false</span>);          <span class="comment">// true</span></div><div class="line"><span class="built_in">console</span>.log(!<span class="string">"blue"</span>);         <span class="comment">// false</span></div><div class="line"><span class="built_in">console</span>.log(!<span class="number">0</span>);              <span class="comment">// true</span></div><div class="line"><span class="built_in">console</span>.log(!<span class="literal">NaN</span>);            <span class="comment">// true</span></div><div class="line"><span class="built_in">console</span>.log(!<span class="string">""</span>);             <span class="comment">// true</span></div><div class="line"><span class="built_in">console</span>.log(!<span class="number">12345</span>);          <span class="comment">// false</span></div></pre></td></tr></table></figure>
-<p>逻辑非运算符也可以用于将一个值转换为与其对应的布尔值。而同时使用两个逻辑非运算符，实际上就会模拟 <code>Boolean()</code> 转型函数的行为。其中，第一个逻辑非操作会基于无论什么操作数返回一个布尔值，而第二个逻辑非操作则对该布尔值求反，于是就得到了这个值真正对应的布尔值。当然，最终结果与对这个值使用 <code>Boolean()</code> 函数相同，例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(!!<span class="string">"blue"</span>);        <span class="comment">//true</span></div><div class="line"><span class="built_in">console</span>.log(!!<span class="number">0</span>);             <span class="comment">//false</span></div><div class="line"><span class="built_in">console</span>.log(!!<span class="literal">NaN</span>);           <span class="comment">//false</span></div><div class="line"><span class="built_in">console</span>.log(!!<span class="string">""</span>);            <span class="comment">//false</span></div><div class="line"><span class="built_in">console</span>.log(!!<span class="number">12345</span>);         <span class="comment">//true</span></div></pre></td></tr></table></figure>
-<h3 id="位运算符"><a href="#位运算符" class="headerlink" title="位运算符"></a>位运算符</h3><p>在 JavaScript 中，当对数值应用位运算符时，后台会发生如下转换过程：64位的数值被转换成32位数值，然后执行位操作，最后再将32位的结果转换回64位数值。这个转换过程导致了一个严重的副效应，即在对特殊的 <code>NaN</code> 和 <code>Infinity</code> 值应用位操作时，这两个值都会被当成 <code>0</code> 来处理。如果对非数值应用位运算符，会先使用 <code>Number()</code> 函数将该值转换为一个数值，然后再应用位操作，得到的结果将是一个数值。</p>
-<h4 id="按位非"><a href="#按位非" class="headerlink" title="~ 按位非"></a><code>~</code> 按位非</h4><p>简单的理解，对任一数值 <code>x</code> 进行按位非操作的结果为 <code>-(x+1)</code>。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(~<span class="literal">null</span>);         <span class="comment">// -1</span></div><div class="line"><span class="built_in">console</span>.log(~<span class="literal">undefined</span>);    <span class="comment">// -1</span></div><div class="line"><span class="built_in">console</span>.log(~<span class="number">0</span>);            <span class="comment">// -1</span></div><div class="line"><span class="built_in">console</span>.log(~&#123;&#125;);           <span class="comment">// -1</span></div><div class="line"><span class="built_in">console</span>.log(~[]);           <span class="comment">// -1</span></div><div class="line"><span class="built_in">console</span>.log(~(<span class="number">1</span>/<span class="number">0</span>));        <span class="comment">// -1</span></div><div class="line"><span class="built_in">console</span>.log(~<span class="literal">false</span>);        <span class="comment">// -1</span></div><div class="line"><span class="built_in">console</span>.log(~<span class="literal">true</span>);         <span class="comment">// -2</span></div><div class="line"><span class="built_in">console</span>.log(~<span class="number">1.2543</span>);       <span class="comment">// -2</span></div><div class="line"><span class="built_in">console</span>.log(~<span class="number">4.9</span>);          <span class="comment">// -5</span></div><div class="line"><span class="built_in">console</span>.log(~(<span class="number">-2.999</span>));     <span class="comment">// 1</span></div></pre></td></tr></table></figure>
-<h4 id="amp-按位与"><a href="#amp-按位与" class="headerlink" title="&amp; 按位与"></a><code>&amp;</code> 按位与</h4><p>按位与操作就是将两个数值的每一位对齐，两个数值的对应位都是 <code>1</code> 时才返回 <code>1</code>，任何一位是 <code>0</code>，结果都是 <code>0</code>。如下表所示：</p>
-<table>
-<thead>
-<tr>
-<th>第一个数值的位</th>
-<th>第二个数值的位</th>
-<th>结果</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-</tr>
-<tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-</tbody>
-</table>
-<h4 id="按位或"><a href="#按位或" class="headerlink" title="| 按位或"></a><code>|</code> 按位或</h4><p>按位或操作就是将两个数值的每一位对齐，两个数值只要有一个位是 <code>1</code> 就返回 <code>1</code>，只在两个位都是 <code>0</code> 的情况下才返回 <code>0</code>。如下表所示：</p>
-<table>
-<thead>
-<tr>
-<th>第一个数值的位</th>
-<th>第二个数值的位</th>
-<th>结果</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-</tr>
-<tr>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-</tbody>
-</table>
-<h4 id="按位异或"><a href="#按位异或" class="headerlink" title="^ 按位异或"></a><code>^</code> 按位异或</h4><p>按位异或与按位或的不同之处在于，两个数值只有一个 <code>1</code> 时才返回 <code>1</code>，如果对应的两位都是 <code>1</code> 或都是 <code>0</code>，则返回 <code>0</code>。</p>
-<table>
-<thead>
-<tr>
-<th>第一个数值的位</th>
-<th>第二个数值的位</th>
-<th>结果</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-</tr>
-<tr>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-</tbody>
-</table>
-<h4 id="lt-lt-左移"><a href="#lt-lt-左移" class="headerlink" title="&lt;&lt; 左移"></a><code>&lt;&lt;</code> 左移</h4><p>这个运算符会将数值的所有位向左移动指定的位数。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> oldValue = <span class="number">2</span>;                       <span class="comment">// 等于二进制的 10</span></div><div class="line"><span class="keyword">var</span> newValue = oldValue &lt;&lt; <span class="number">5</span>;           <span class="comment">// 等于二进制的 1000000，十进制的 64</span></div></pre></td></tr></table></figure>
-<p>注意，左移不会影响操作数的符号位。换句话说，如果将 <code>-2</code> 向左移动 <code>5</code> 位，结果将是 <code>-64</code>，而非 <code>64</code>。</p>
-<h4 id="gt-gt-有符号的右移"><a href="#gt-gt-有符号的右移" class="headerlink" title="&gt;&gt; 有符号的右移"></a><code>&gt;&gt;</code> 有符号的右移</h4><p>这个运算符会将数值向右移动，但保留符号位（即正负号标记）。</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> oldValue = <span class="number">64</span>;                      <span class="comment">// 等于二进制的 1000000</span></div><div class="line"><span class="keyword">var</span> newValue = oldValue &gt;&gt; <span class="number">5</span>;           <span class="comment">// 等于二进制的 10 ，即十进制的 2</span></div></pre></td></tr></table></figure>
-<h4 id="gt-gt-gt-无符号的右移"><a href="#gt-gt-gt-无符号的右移" class="headerlink" title="&gt;&gt;&gt; 无符号的右移"></a><code>&gt;&gt;&gt;</code> 无符号的右移</h4><p>这个运算符会将数值的所有32位都向右移动。对正数来说，无符号右移的结果与有符号右移相同。</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> oldValue = <span class="number">64</span>;                      <span class="comment">// 等于二进制的 1000000</span></div><div class="line"><span class="keyword">var</span> newValue = oldValue &gt;&gt;&gt; <span class="number">5</span>;          <span class="comment">// 等于二进制的 10 ，即十进制的 2</span></div></pre></td></tr></table></figure>
-<p>无符号右移运算符会把负数的二进制码当成正数的二进制码。而且，由于负数以其绝对值的二进制补码形式表示，因此就会导致无符号右移后的结果非常之大。</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> oldValue = <span class="number">-64</span>;                     <span class="comment">// 等于二进制的 11111111111111111111111111000000</span></div><div class="line"><span class="keyword">var</span> newValue = oldValue &gt;&gt;&gt; <span class="number">5</span>;          <span class="comment">// 等于十进制的 134217726</span></div></pre></td></tr></table></figure>
-<h3 id="赋值运算符"><a href="#赋值运算符" class="headerlink" title="赋值运算符"></a>赋值运算符</h3><p>简单的赋值运算符由等于号 <code>=</code> 表示，其作用就是把右侧的值赋给左侧的变量，如下面的例子所示：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> num = <span class="number">10</span>;</div></pre></td></tr></table></figure>
-<p>如果在等于号 <code>=</code> 前面再添加乘性运算符、加性运算符或位运算符，就可以完成复合赋值操作。这种复合赋值操作相当于是对下面常规表达式的简写形式：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> num = <span class="number">10</span>;</div><div class="line">num += <span class="number">10</span>;      <span class="comment">// 等同于 num = num + 10;</span></div></pre></td></tr></table></figure>
-<p>每个主要算术运算符（以及个别的其他运算符）都有对应的复合赋值运算符。这些运算符如下所示：</p>
-<ul>
-<li>乘/赋值 <code>*=</code>；</li>
-<li>除/赋值 <code>/=</code>；</li>
-<li>模/赋值 <code>%=</code>；</li>
-<li>加/赋值 <code>+=</code>；</li>
-<li>减/赋值 <code>-=</code>；</li>
-<li>左移/赋值 <code>&lt;&lt;=</code>；</li>
-<li>有符号右移/赋值 <code>&gt;&gt;=</code>；</li>
-<li>无符号右移/赋值 <code>&gt;&gt;&gt;=</code>。</li>
-</ul>
-<p>设计这些运算符的主要目的就是简化赋值操作，使用它们不会带来任何性能的提升。</p>
-<h3 id="条件运算符"><a href="#条件运算符" class="headerlink" title="条件运算符"></a>条件运算符</h3><p><code>? :</code> 条件运算符应该算是 JavaScript 中最灵活的一种运算符了，而且它遵循与 Java 中的条件运算符相同的语法形式，如下面的例子所示：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">variable = boolean_expression ? true_value : false_value;</div></pre></td></tr></table></figure>
-<h3 id="逗号运算符"><a href="#逗号运算符" class="headerlink" title="逗号运算符"></a>逗号运算符</h3><p>逗号运算符多用于声明多个变量；但除此之外，逗号运算符还可以用于赋值。在用于赋值时，逗号运算符总会返回表达式中的最后一项，如下面的例子所示：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> num = (<span class="number">5</span>, <span class="number">1</span>, <span class="number">4</span>, <span class="number">8</span>, <span class="number">0</span>); <span class="comment">// num 的值为 0</span></div></pre></td></tr></table></figure>
-<p>由于 <code>0</code> 是表达式中的最后一项，因此 <code>num</code> 的值就是 <code>0</code>。虽然逗号的这种使用方式并不常见，但这个例子可以帮我们理解逗号的这种行为。</p>
-<h2 id="关卡"><a href="#关卡" class="headerlink" title="关卡"></a>关卡</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战一</span></div><div class="line"><span class="keyword">var</span> x=<span class="number">1</span>;</div><div class="line"><span class="keyword">if</span>(!!<span class="function"><span class="keyword">function</span> <span class="title">f</span>(<span class="params"></span>)</span>&#123;&#125;)&#123;</div><div class="line">    x+=<span class="keyword">typeof</span> f;</div><div class="line">&#125;</div><div class="line"><span class="built_in">console</span>.log(x);     <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战二</span></div><div class="line">(<span class="function"><span class="keyword">function</span> <span class="title">f</span>(<span class="params">f</span>)</span>&#123;</div><div class="line">    <span class="built_in">console</span>.log(<span class="keyword">typeof</span> f());    <span class="comment">// ???</span></div><div class="line">&#125;)(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;<span class="keyword">return</span> <span class="number">1</span>;&#125;);</div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战三</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span> <span class="number">2</span>*<span class="number">3</span>);    <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span> <span class="number">2</span>+<span class="number">3</span>);    <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战四</span></div><div class="line"><span class="keyword">var</span> a=<span class="number">0</span>,b=<span class="number">0</span>;</div><div class="line"><span class="built_in">console</span>.log(a+++b);     <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(a);         <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(b);         <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战五</span></div><div class="line"><span class="keyword">var</span> a,b,c;</div><div class="line">a=b==c;</div><div class="line"><span class="built_in">console</span>.log(a);     <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战六</span></div><div class="line"><span class="built_in">console</span>.log(<span class="number">1</span> &amp;&amp; <span class="number">3</span>);            <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(<span class="number">1</span> &amp;&amp; <span class="string">"foo"</span> || <span class="number">0</span>);   <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(<span class="number">1</span> || <span class="string">"foo"</span> &amp;&amp; <span class="number">0</span>);   <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战七</span></div><div class="line"><span class="keyword">var</span> a=<span class="number">1</span>;</div><div class="line"><span class="keyword">var</span> b=(a=(<span class="number">2</span>,<span class="number">4</span>,<span class="number">6</span>))+a++</div><div class="line"><span class="built_in">console</span>.log(b);     <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战八</span></div><div class="line"><span class="keyword">if</span> (!(<span class="string">"a"</span> <span class="keyword">in</span> <span class="built_in">window</span>)) &#123;</div><div class="line">    <span class="keyword">var</span> a = <span class="number">1</span>;</div><div class="line">&#125;</div><div class="line"><span class="built_in">console</span>.log(a);     <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战九</span></div><div class="line"><span class="keyword">var</span> val = <span class="string">'smtg'</span>; </div><div class="line"><span class="built_in">console</span>.log(<span class="string">'Value is '</span> + (val === <span class="string">'smtg'</span>) ? <span class="string">'Something'</span> : <span class="string">'Nothing'</span>);  <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战九</span></div><div class="line"><span class="built_in">console</span>.log(<span class="number">1</span> + - + + + - + <span class="number">1</span>);</div></pre></td></tr></table></figure>
-<h2 id="更多"><a href="#更多" class="headerlink" title="更多"></a>更多</h2><blockquote>
-<p>关注微信公众号「劼哥舍」回复「答案」，获取关卡详解。<br>关注 <a href="https://github.com/stone0090/javascript-lessons" target="_blank" rel="external">https://github.com/stone0090/javascript-lessons</a>，获取最新动态。</p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;表达式&quot;&gt;&lt;a href=&quot;#表达式&quot; class=&quot;headerlink&quot; title=&quot;表达式&quot;&gt;&lt;/a&gt;表达式&lt;/h2&gt;&lt;p&gt;表达式是由数字、运算符、数字分组符号（如括号）、自由变量和约束变量等以能求得数值的有意义排列方法所得的组合。JavaScript 表达式主要有以下几种形式：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;原始表达式：常量、变量、保留字。&lt;/li&gt;
-&lt;li&gt;对象、数组初始化表达式：&lt;code&gt;var obj={a:1,b:2};&lt;/code&gt;，&lt;code&gt;var arr=[1,2,3];&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;函数定义表达式：&lt;code&gt;var fn=function(){}&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;属性访问表达式：&lt;code&gt;Math.abs&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;调用表达式：&lt;code&gt;alert(&amp;#39;hello&amp;#39;);&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;对象创建表达式：&lt;code&gt;new object();&lt;/code&gt;。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;运算符&quot;&gt;&lt;a href=&quot;#运算符&quot; class=&quot;headerlink&quot; title=&quot;运算符&quot;&gt;&lt;/a&gt;运算符&lt;/h2&gt;&lt;p&gt;JavaScript 中的运算符用于算术表达式、比较表达式、逻辑表达式、赋值表达式等。需要注意的是，大多数运算符都是由标点符号表示的，比如 &lt;code&gt;+&lt;/code&gt; 和 &lt;code&gt;=&lt;/code&gt;。而另外一些运算符则是由关键字表示的，比如 &lt;code&gt;typeof&lt;/code&gt; 和 &lt;code&gt;instanceof&lt;/code&gt;，关键字运算符和标点符号都是正规的运算符。&lt;/p&gt;
-&lt;p&gt;下表列出了 JavaScript 中所有的运算符，并按照运算符的优先级排序的，前面的运算符优先级要高于后面的运算符优先级，被空行分隔开来的运算符具有不同的优先级。标题为 A 的列表示运算符的结合性（Associativity），L 表示从左至右、R 表示从右至左，标题为 N 的列表示操作数的个数（Number）。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://shisb.com/tags/JavaScript/"/>
     
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《JavaScript 闯关记》之变量和数据类型</title>
-    <link href="http://shijiajie.com/2016/08/16/javascript-lesson-1.4-Variable&amp;Types/"/>
-    <id>http://shijiajie.com/2016/08/16/javascript-lesson-1.4-Variable&amp;Types/</id>
-    <published>2016-08-16T14:45:00.000Z</published>
-    <updated>2016-10-04T07:24:35.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>当程序需要将值保存起来以备将来使用时，便将其赋值给一个变量，值的类型称作数据类型。</p>
-<h2 id="变量"><a href="#变量" class="headerlink" title="变量"></a>变量</h2><p>JavaScript 的变量是松散类型的，所谓松散类型就是可以用来保存任何类型的数据。换句话说，每个变量仅仅是一个用于保存值的占位符而已。定义变量时要使用关键字 <code>var</code> 来声明的，如下所示：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> message;</div></pre></td></tr></table></figure>
-<p>这行代码定义了一个名为 <code>message</code> 的变量，该变量可以用来保存任何值（像这样未经过初始化的变量，会保存一个特殊的值 <code>undefined</code>）。JavaScript 也支持直接初始化变量，因此在定义变量的同时就可以设置变量的值，如下所示：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> message = <span class="string">"hello"</span>;</div></pre></td></tr></table></figure>
-<p>此时，变量 <code>message</code> 中保存了一个字符串值 <code>&quot;hello&quot;</code>。像这样初始化变量并不会把它标记为字符串类型，因此，可以在修改变量值的同时修改值的类型。如下所示：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> message = <span class="string">"hello"</span>;</div><div class="line">message = <span class="number">100</span>;           <span class="comment">// 有效的语句，不好的写法</span></div></pre></td></tr></table></figure>
-<p>在这个例子中，变量 <code>message</code> 一开始保存了一个字符串值 <code>&quot;hello&quot;</code>，然后该值又被一个数字值100取代。虽然我们不建议修改变量所保存值的类型，但这种操作在 JavaScript 中完全有效。</p>
-<a id="more"></a> 
-<p>有一点必须注意，即使用 <code>var</code> 运算符定义的变量是的该作用域中的局部变量。也就是说，如果在函数中使用 <code>var</code> 定义一个变量，那么这个变量在函数退出后就会被销毁，例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">function</span> <span class="title">test</span>(<span class="params"></span>)</span>&#123;</div><div class="line">    <span class="keyword">var</span> message = <span class="string">"hello"</span>;  <span class="comment">// 局部变量</span></div><div class="line">&#125;</div><div class="line">test();</div><div class="line"><span class="built_in">console</span>.log(message);   <span class="comment">// 产生错误</span></div></pre></td></tr></table></figure>
-<p>这里，变量 <code>message</code> 是在函数中使用 <code>var</code> 定义的，是局部变量。当函数被调用时，就会创建该变量并为其赋值。而在此之后，这个变量又会立即被销毁，因此例子中的下一行代码就会导致错误。不过，可以像下面这样省略 <code>var</code> 运算符，从而创建一个全局变量：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">function</span> <span class="title">test</span>(<span class="params"></span>)</span>&#123;</div><div class="line">    message = <span class="string">"hello"</span>;  <span class="comment">// 全局变量，不好的写法</span></div><div class="line">&#125;</div><div class="line">test();</div><div class="line"><span class="built_in">console</span>.log(message);   <span class="comment">// "hello"</span></div></pre></td></tr></table></figure>
-<p>这个例子省略了 <code>var</code> 运算符，因而 <code>message</code> 就成了全局变量。这样，只要调用一次 <code>test()</code> 函数，这个变量就有了定义，就可以在函数外部的任何地方被访问到。</p>
-<p>虽然省略 <code>var</code> 运算符可以定义全局变量，但这也不是推荐的做法，因为在局部作用域中定义全局变量很难维护，给未经声明的变量赋值在严格模式下会抛出 <code>ReferenceError</code> 错误。</p>
-<h2 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h2><p>JavaScript 中有5种简单数据类型（也称为「基本数据类型」或「原始数据类型」）：<code>Undefined</code>、<code>Null</code>、<code>Boolean</code>、<code>Number</code>、<code>String</code> 。还有1种复杂数据类型 <code>Object</code>，<code>Object</code> 本质上是由一组无序的名值对组成的。JavaScript 不支持任何创建自定义类型的机制，所有值最终都将是上述6种数据类型之一。</p>
-<h3 id="typeof-运算符"><a href="#typeof-运算符" class="headerlink" title="typeof 运算符"></a><code>typeof</code> 运算符</h3><p>鉴于 JavaScript 是松散类型的，因此需要有一种手段来检测给定变量的数据类型，<code>typeof</code> 就是负责提供这方面信息的运算符。对一个值使用 <code>typeof</code> 运算符可能返回下列某个字符串：</p>
-<ul>
-<li><code>&quot;undefined&quot;</code>，如果这个值未声明或已声明但未初始化。</li>
-<li><code>&quot;boolean&quot;</code>，如果这个值是布尔值。</li>
-<li><code>&quot;string&quot;</code>，如果这个值是字符串。</li>
-<li><code>&quot;number&quot;</code>，如果这个值是数值。</li>
-<li><code>&quot;object&quot;</code>，如果这个值是对象或 <code>null</code>。</li>
-<li><code>&quot;function&quot;</code>，如果这个值是函数。</li>
-</ul>
-<p>下面是几个使用 <code>typeof</code> 运算符的例子：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> message = <span class="string">"some string"</span>;</div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span> message);     <span class="comment">// "string"</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span>(message));    <span class="comment">// "string"</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span> <span class="number">95</span>);          <span class="comment">// "number"</span></div></pre></td></tr></table></figure>
-<p>从以上例子可以看出，<code>typeof</code> 运算符既可以对变量使用，又可以对字面量使用。由于 <code>typeof</code> 是一个运算符而不是函数，因此例子中的圆括号尽管可以使用，但并不提倡。</p>
-<p><code>typeof null</code> 结果是 <code>&quot;object&quot;</code> 是历史遗留 Bug，在 ECMAScript 6中，曾经有提案为历史平反, 将 <code>type null</code> 的值纠正为 <code>&quot;null&quot;</code>，但最后该提案被拒。理由是历史遗留代码太多，不如继续将错就错。</p>
-<p>从技术角度讲，函数在 JavaScript 中是对象，不是一种数据类型。然而，函数也确实有一些特殊的属性，因此通过 <code>typeof</code> 运算符来区分函数和其他对象是有必要的。</p>
-<blockquote>
-<p>扩展阅读「为什么 JavaScript 里面 <code>typeof null</code> 的值是 <code>&quot;object&quot;</code>？」<br><a href="https://www.zhihu.com/question/21691758" target="_blank" rel="external">https://www.zhihu.com/question/21691758</a></p>
-<p>扩展阅读「MDN 之 <code>typeof</code>」<br><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/typeof" target="_blank" rel="external">https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/typeof</a></p>
-<p>扩展阅读「JavaScript 检测原始值、引用值、属性」<br><a href="http://shijiajie.com/2016/06/20/javascript-maintainable-javascript-validate1/">http://shijiajie.com/2016/06/20/javascript-maintainable-javascript-validate1/</a></p>
-<p>扩展阅读「JavaScript 检测之 basevalidate.js」<br><a href="http://shijiajie.com/2016/06/25/javascript-maintainable-javascript-basevalidatejs/">http://shijiajie.com/2016/06/25/javascript-maintainable-javascript-basevalidatejs/</a></p>
-</blockquote>
-<h3 id="Undefined-类型"><a href="#Undefined-类型" class="headerlink" title="Undefined 类型"></a><code>Undefined</code> 类型</h3><p><code>Undefined</code> 类型只有1个值，即 <code>undefined</code>。使用 <code>var</code> 声明变量但未对其加以初始化时，这个变量的值就是 <code>undefined</code>，直接使用未声明的变量会产生错误。对未声明或已声明但未初始化的变量执行 <code>typeof</code> 运算符会返回 <code>&quot;undefined&quot;</code> 值，例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> message;    <span class="comment">// 这个变量声明之后默认取得了 undefined 值</span></div><div class="line"><span class="comment">// var age      // 这个变量并没有声明</span></div><div class="line"></div><div class="line"><span class="built_in">console</span>.log(message);           <span class="comment">// "undefined"</span></div><div class="line"><span class="built_in">console</span>.log(age);               <span class="comment">// 产生错误</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span> message);    <span class="comment">// "undefined"</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span> age);        <span class="comment">// "undefined"</span></div></pre></td></tr></table></figure>
-<h3 id="Null-类型"><a href="#Null-类型" class="headerlink" title="Null 类型"></a><code>Null</code> 类型</h3><p><code>Null</code> 类型也只有1个值，即 <code>null</code>。它用来表示值的空缺。你可以认为 <code>undefined</code> 是表示系统级的、出乎意料的或类似错误的值的空缺，而 <code>null</code> 是表示程序级的、正常的或在意料之中的值的空缺。在下列场景中应当使用 <code>null</code>。</p>
-<ul>
-<li>用来初始化一个变量，这个变量可能赋值为一个对象。</li>
-<li>用来和一个已经初始化的变量比较，这个变量可以是也可以不是一个对象。</li>
-<li>当函数的参数期望是对象时，作用参数传入。</li>
-<li>当函数的返回值期望是对象时，作用返回值传出。</li>
-</ul>
-<p>在下列场景中不应当使用 <code>null</code>。</p>
-<ul>
-<li>不要使用 <code>null</code> 来检测是否传入了某个参数。</li>
-<li>不要使用 <code>null</code> 来检测一个未初始化的变量。</li>
-</ul>
-<h3 id="Boolean-类型"><a href="#Boolean-类型" class="headerlink" title="Boolean 类型"></a><code>Boolean</code> 类型</h3><p><code>Boolean</code> 类型是 JavaScript 中使用得最多的一种类型，该类型只有两个字面值：<code>true</code> 和 <code>false</code>。需要注意的是，他们是区分大小写的，也就是说 <code>True</code> 和 <code>False</code>（以及其他的混合大小写形式）都不是 <code>Boolean</code> 值，只是标识符。</p>
-<p>虽然 <code>Boolean</code> 类型的字面值只有两个，但 JavaScript 中所有类型的值都能使用 <code>if</code> 语句或 <code>Boolean()</code> 函数转换为对应的 <code>Boolean</code> 值，例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> message = <span class="string">"Hello world!"</span>;</div><div class="line"><span class="keyword">if</span> (message)&#123;</div><div class="line">    <span class="built_in">console</span>.log(<span class="string">"Value is true."</span>);  <span class="comment">// 被执行</span></div><div class="line">&#125;</div><div class="line"><span class="keyword">var</span> messageAsBoolean = <span class="built_in">Boolean</span>(message);</div><div class="line"><span class="built_in">console</span>.log(messageAsBoolean);  <span class="comment">// true</span></div></pre></td></tr></table></figure>
-<p>下表给出了各种数据类型及其对应的转换规则。</p>
-<table>
-<thead>
-<tr>
-<th>数据类型</th>
-<th>转换为true的值</th>
-<th>转换为false的值</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Undefined</td>
-<td>-</td>
-<td>undefined</td>
-</tr>
-<tr>
-<td>Null</td>
-<td>-</td>
-<td>null</td>
-</tr>
-<tr>
-<td>Boolean</td>
-<td>true</td>
-<td>false</td>
-</tr>
-<tr>
-<td>String</td>
-<td>任何非空字符串</td>
-<td>“”（空字符串）</td>
-</tr>
-<tr>
-<td>Number</td>
-<td>任何非零数字值（包括无穷大）</td>
-<td>0和NaN</td>
-</tr>
-<tr>
-<td>Object</td>
-<td>任何对象</td>
-<td>-</td>
-</tr>
-</tbody>
-</table>
-<h3 id="Number-类型"><a href="#Number-类型" class="headerlink" title="Number 类型"></a><code>Number</code> 类型</h3><p><code>Number</code> 类型是 JavaScript 中最令人关注的数据类型，这种类型使用 IEEE 754 格式来表示整数和浮点数值（浮点数值在某些语言中也被称为双精度数值）。和其他编程语言不同，JavaScript 中的所有数字均用浮点数值表示。</p>
-<blockquote>
-<p>扩展阅读「IEEE 754-1985」<br><a href="https://en.wikipedia.org/wiki/IEEE_754-1985" target="_blank" rel="external">https://en.wikipedia.org/wiki/IEEE_754-1985</a></p>
-</blockquote>
-<h4 id="整数"><a href="#整数" class="headerlink" title="整数"></a>整数</h4><p>在 JavaScript 中进行算术计算时，所有以八进制和十六进制表示的数值最终都将被转换成十进制数值。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> a = <span class="number">10</span>;         <span class="comment">// 十进制</span></div><div class="line"><span class="keyword">var</span> b = <span class="number">023</span>;        <span class="comment">// 八进制</span></div><div class="line"><span class="keyword">var</span> c = <span class="number">0x12ac</span>;     <span class="comment">// 十六进制</span></div><div class="line"><span class="built_in">console</span>.log(b);     <span class="comment">// 19</span></div><div class="line"><span class="built_in">console</span>.log(c);     <span class="comment">// 4780</span></div></pre></td></tr></table></figure>
-<p>八进制第一位必须是0，后面跟八进制序列0到7，如果超出了范围，则忽略前导0，后面的数值当做十进制解析，例如：089会被解析为89。（八进制字面量在严格模式下是无效的，会抛出错误。）</p>
-<p>十六进制前两位必须是 0x 或 0X，后跟十六进制序列0~9、a~f（不区分大小写），如果超出了范围，则会报语法错误。</p>
-<h4 id="浮点数"><a href="#浮点数" class="headerlink" title="浮点数"></a>浮点数</h4><p>所谓浮点数值，就是该数值中必须包含一个小数点，并且小数点后面必须至少有一位数字。虽然小数点前面可以没有整数，但我们不推荐这种写法。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> a = <span class="number">1.1</span>;</div><div class="line"><span class="keyword">var</span> b = <span class="number">0.1</span>;</div><div class="line"><span class="keyword">var</span> c = <span class="number">.1</span>;     <span class="comment">// 有效，但不推荐</span></div></pre></td></tr></table></figure>
-<p>JavaScript 会不失时机的将浮点数转换成整数。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> a = <span class="number">5.</span>;      <span class="comment">// 解析成整数5</span></div><div class="line"><span class="keyword">var</span> b = <span class="number">5.0</span>;     <span class="comment">// 解析成整数5</span></div></pre></td></tr></table></figure>
-<p>对于极大或者极小的数值，可采用科学技术法（也称e表示法）。JavaScript 会将那些小数点后面带有6个零以上的小于1的浮点数值转换为以e表示法表示的数值。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> a = <span class="number">3.14e7</span>;             <span class="comment">// 等于31400000</span></div><div class="line"><span class="keyword">var</span> b = <span class="number">3.14E-7</span>;            <span class="comment">// 等于0.000000314</span></div><div class="line"><span class="built_in">console</span>.log(<span class="number">0.0000003</span>);     <span class="comment">// 3e-7</span></div></pre></td></tr></table></figure>
-<p>浮点数值的最高精度是17位小数，但在进行算术计算时其精确度远远不如整数，例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="number">0.1</span> + <span class="number">0.2</span>);     <span class="comment">// 0.30000000000000004</span></div></pre></td></tr></table></figure>
-<p>这个舍入误差会导致无法测试特定的浮点数值，因此，<strong>永远不要测试某个特定的浮点数值</strong>。</p>
-<h4 id="正无穷、负无穷"><a href="#正无穷、负无穷" class="headerlink" title="正无穷、负无穷"></a>正无穷、负无穷</h4><p>由于内存限制，JavaScript 能表示的数值范围从 <code>Number.MIN_VALUE</code> 到 <code>Number.MAX_VALUE</code>，并将超出范围的数转换成 <code>Number.POSITIVE_INFINITY</code> 或 <code>Number.NEGATIVE_INFINITY</code>。0作为除数是不会报错的，正数除以0返回正无穷，负数除以0返回负无穷，0除以0返回<code>NaN</code>。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="built_in">Number</span>.MAX_VALUE);       <span class="comment">// 最大数 1.7976931348623157e+308</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">Number</span>.MIN_VALUE);       <span class="comment">// 最小数 5e-324</span></div><div class="line"></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">Number</span>.POSITIVE_INFINITY);    <span class="comment">// 正无穷  Infinity</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">Number</span>.NEGATIVE_INFINITY);    <span class="comment">// 负无穷 -Infinity</span></div><div class="line"></div><div class="line"><span class="built_in">console</span>.log( <span class="number">1</span> / <span class="number">0</span>);     <span class="comment">//  Infinity</span></div><div class="line"><span class="built_in">console</span>.log(<span class="number">-1</span> / <span class="number">0</span>);     <span class="comment">// -Infinity</span></div></pre></td></tr></table></figure>
-<p>JavaScript 提供了 <code>isFinite()</code> 函数，来确定一个数是不是有穷的。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="built_in">isFinite</span>(<span class="number">100</span>));         <span class="comment">// true</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">isFinite</span>(<span class="literal">Infinity</span>));    <span class="comment">// false</span></div></pre></td></tr></table></figure>
-<h4 id="NaN"><a href="#NaN" class="headerlink" title="NaN"></a>NaN</h4><p><code>NaN</code>（not a number），是一个特殊的数值。之所以称它为「非数值」，是因为它不能参与算数运算，任何涉及 <code>NaN</code> 的操作都返回 <code>NaN</code>。并且 <code>NaN</code> 与任何值都不相等（包括自身）。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span> <span class="literal">NaN</span>);      <span class="comment">// "number"</span></div><div class="line"></div><div class="line"><span class="built_in">console</span>.log(<span class="number">0</span> / <span class="number">0</span>);                 <span class="comment">// NaN</span></div><div class="line"><span class="built_in">console</span>.log(<span class="literal">NaN</span> - <span class="literal">NaN</span>);             <span class="comment">// NaN</span></div><div class="line"><span class="built_in">console</span>.log(<span class="literal">Infinity</span> - <span class="literal">Infinity</span>);   <span class="comment">// NaN</span></div><div class="line"></div><div class="line"><span class="keyword">var</span> a = <span class="literal">NaN</span>;</div><div class="line"><span class="built_in">console</span>.log(a === a);   <span class="comment">// false</span></div></pre></td></tr></table></figure>
-<p>JavaScript 提供了 <code>isNaN()</code> 函数，来确定一个数是不是 <code>NaN</code>。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="built_in">isNaN</span>(<span class="number">100</span>));        <span class="comment">//  false</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">isNaN</span>(<span class="string">"100"</span>));      <span class="comment">//  false</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">isNaN</span>(<span class="literal">true</span>));       <span class="comment">//  false</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">isNaN</span>(<span class="string">"sss"</span>));      <span class="comment">//  true</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">isNaN</span>(<span class="literal">NaN</span>));        <span class="comment">//  true</span></div></pre></td></tr></table></figure>
-<h4 id="Number-、parseInt-、parseFloat-转型函数"><a href="#Number-、parseInt-、parseFloat-转型函数" class="headerlink" title="Number()、parseInt()、parseFloat() 转型函数"></a><code>Number()</code>、<code>parseInt()</code>、<code>parseFloat()</code> 转型函数</h4><p><code>isNaN()</code> 函数在接收到一个值之后，会尝试使用转型函数 <code>Number()</code> 将这个值转换为数值，转换规则如下：</p>
-<ul>
-<li><code>undefined</code> 转换为 <code>NaN</code>；</li>
-<li><code>null</code> 转换为 0；</li>
-<li><code>true</code> 转换为 <code>1</code>、<code>false</code> 转换为 <code>0</code>；</li>
-<li><code>number</code> 整数转换为十进制，小数不变；</li>
-<li><code>string</code> 如果只包含十进制数和小数，则返回对应的数值，如果只包含八进制数，则忽略前导0返回剩余部分，如果只包含十六进制，则返回十进制数，空字符串转换为0，其它字符串转换为 <code>NaN</code>；</li>
-<li><code>object</code> 先则调用对象的 <code>valueOf()</code> 方法，然后依照前面的规则转换返回的值。如果转换的结果是 <code>NaN</code>，则调用对象的 <code>toString()</code> 方法，然后再次依照前面的规则转换返回的字符串值。</li>
-</ul>
-<p>由于 <code>Number()</code> 转型函数在转换字符串时不够理想，因此还有两个专门用来转换字符串的函数 <code>parseInt()</code> 和 <code>parseFloat()</code> 函数。</p>
-<p><code>parseInt()</code> 函数会忽略字符串前面的空格，直至找到第一个非空格字符，只要第一个非空格字符不是数字或者正负号，一律返回 <code>NaN</code>， 如果第一个非空格字符是数字字符，<code>parseInt()</code> 会继续解析第二个字符，直到解析完所有后续字符或者遇到了一个非数字字符。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="built_in">parseInt</span>(<span class="string">""</span>));          <span class="comment">// NaN（Number("")返回 0）</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">parseInt</span>(<span class="string">"123S"</span>));      <span class="comment">// 123</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">parseInt</span>(<span class="string">"12.4"</span>));      <span class="comment">// 12</span></div></pre></td></tr></table></figure>
-<p><code>parseFloat()</code> 函数也会忽略字符串前面的空格，直至找到第一个非空格字符，只要第一个非空格字符不是数字或者正负号或者小数点，一律返回 <code>NaN</code>， 如果第一个非空格字符是上述字符之一，<code>parseFloat()</code> 会继续解析第二个字符，直到解析完所有后续字符或者遇到了一个非浮点数值。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="built_in">parseFloat</span>(<span class="string">"098.2"</span>));       <span class="comment">// 98.2</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">parseFloat</span>(<span class="string">"123.23.23"</span>));   <span class="comment">// 123.23</span></div></pre></td></tr></table></figure>
-<h3 id="String-类型"><a href="#String-类型" class="headerlink" title="String 类型"></a><code>String</code> 类型</h3><p><code>String</code> 类型用于表示由零或多个16位 Unicode 字符组成的字符序列，即字符串。字符串可以由双引号（”）或单引号（’）表示，因此下面两种字符串的写法都是有效的：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> firstName = <span class="string">"Nicholas"</span>;</div><div class="line"><span class="keyword">var</span> lastName = <span class="string">'Zakas'</span>;</div></pre></td></tr></table></figure>
-<p>JavaScript 中的这两种语法形式没有什么区别。用双引号表示的字符串和用单引号表示的字符串完全相同。不过，以双引号开头的字符串也必须以双引号结尾，而以单引号开头的字符串必须以单引号结尾。</p>
-<p><code>String</code> 数据类型包含一些特殊的字符字面量，也叫转义序列，用于表示非打印字符，或者具有其他用途的字符。例如：<code>\n</code> 换行、<code>\t</code> 制表、<code>\b</code> 空格、<code>\r</code> 回车、<code>\f</code> 进纸、<code>\\</code> 斜杠、<code>\&#39;</code> 单引号，在用单引号表示的字符串中使用、<code>\&quot;</code> 双引号，在用双引号表示的字符串中使用。</p>
-<p>转义字符可出现在字符串中的任意位置，且长度为1。如要在字符串中显示 <code>\</code> ，则必须使用 <code>\</code> 进行转义。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="string">"\n\\"</span>.length);    <span class="comment">// 2</span></div><div class="line"><span class="built_in">console</span>.log(<span class="string">"\\hello"</span>);        <span class="comment">// "\hello"（长度为6）</span></div></pre></td></tr></table></figure>
-<p>大部分值都可以使用继承而来的 <code>toString()</code>方法转换为字符串，但 <code>undefined</code> 和 <code>null</code> 值没有这个方法。对数值使用 <code>toString()</code> 方法时，可以传入一个数字基数，以此输出对应进制的字符串值。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="literal">true</span>.toString());   <span class="comment">// "true"</span></div><div class="line"></div><div class="line"><span class="keyword">var</span> num = <span class="number">10</span>;</div><div class="line"><span class="built_in">console</span>.log(num.toString());    <span class="comment">// "10"</span></div><div class="line"><span class="built_in">console</span>.log(num.toString(<span class="number">2</span>));   <span class="comment">// "1010"</span></div><div class="line"><span class="built_in">console</span>.log(num.toString(<span class="number">8</span>));   <span class="comment">// "12"</span></div><div class="line"><span class="built_in">console</span>.log(num.toString(<span class="number">16</span>));  <span class="comment">// "a"</span></div></pre></td></tr></table></figure>
-<p>在不知道要转换的值是不是 <code>undefined</code> 或 <code>null</code> 的情况下，还可以使用转型函数 <code>String()</code>，这个函数能够将任何类型的值转换为字符串。<code>String()</code> 函数遵循下列转换规则：</p>
-<ul>
-<li>如果值有 <code>toString()</code> 方法，则调用该方法（没有参数）并返回相应的结果；</li>
-<li>如果值是 <code>undefined</code>，则返回 <code>&quot;undefined&quot;</code>；</li>
-<li>如果值是 <code>null</code>，则返回 <code>&quot;null&quot;</code>。</li>
-</ul>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> value;</div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">String</span>(<span class="number">10</span>));        <span class="comment">// "10"</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">String</span>(<span class="literal">true</span>));      <span class="comment">// "true"</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">String</span>(<span class="literal">null</span>));      <span class="comment">// "null"</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">String</span>(value));     <span class="comment">// "undefined"</span></div></pre></td></tr></table></figure>
-<h3 id="Object-类型"><a href="#Object-类型" class="headerlink" title="Object 类型"></a><code>Object</code> 类型</h3><p>JavaScript 中所有对象都继承自 <code>Object</code> 类型，每个对象都具有下列基本的属性和方法：</p>
-<ul>
-<li><code>constructor</code>：保存着用于创建当前对象的函数（构造函数）。</li>
-<li><code>hasOwnProperty()</code>：用于检查给定的属性在当前对象实例中是否存在。</li>
-<li><code>propertyIsEnumerable()</code>：用于检查给定的属性是否能够使用for-in语句来枚举。</li>
-<li><code>isPrototypeOf()</code>：用于检查对象是否是传入对象的原型。</li>
-<li><code>toString()</code> 方法：返回对象的字符串表示。</li>
-<li><code>toLocaleString()</code>：返回对象的本地字符串表示。</li>
-<li><code>valueOf()</code>：返回对象的字符串、数值或布尔值表示（通常与toString()方法的返回值相同）。</li>
-</ul>
-<p><code>Object</code> 本质上是由一组无序的名值对组成，「名称」部分是一个 JavaScript 字符串，「值」部分可以是任何 JavaScript 的数据类型（包括对象和方法）。这使用户可以根据具体需求，创建出相当复杂的数据结构。</p>
-<p>以下两种方法都可以创建一个空对象，这两种方法在语义上是相同的。第二种更方便的方法叫作「对象字面量」法。这也是 JSON 格式的核心语法，一般我们优先选择第二种方法。例如：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> obj = <span class="keyword">new</span> <span class="built_in">Object</span>();</div><div class="line"><span class="keyword">var</span> obj = &#123;&#125;;   <span class="comment">// 好的写法</span></div></pre></td></tr></table></figure>
-<p>「对象字面量」也可以用来在对象实例中定义一个对象：<br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> obj = &#123;</div><div class="line">    <span class="attr">name</span>: <span class="string">"Carrot"</span>,</div><div class="line">    <span class="string">"for"</span>: <span class="string">"Max"</span>,</div><div class="line">    <span class="attr">details</span>: &#123;</div><div class="line">        <span class="attr">color</span>: <span class="string">"orange"</span>,</div><div class="line">        <span class="attr">size</span>: <span class="number">12</span></div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
-<p>对象的属性可以通过链式（chain）表示方法进行访问：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">obj.details.color;       <span class="comment">// orange</span></div><div class="line">obj[<span class="string">"details"</span>][<span class="string">"size"</span>];  <span class="comment">// 12</span></div></pre></td></tr></table></figure>
-<p>完成创建后，对象属性可以通过如下两种方式进行赋值和访问：</p>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">obj.name = <span class="string">"Simon"</span>      <span class="comment">// 赋值</span></div><div class="line"><span class="keyword">var</span> name = obj.name;    <span class="comment">// 访问</span></div><div class="line"></div><div class="line">obj[<span class="string">"name"</span>] = <span class="string">"Simon"</span>;  <span class="comment">// 赋值</span></div><div class="line"><span class="keyword">var</span> name = obj[<span class="string">"name"</span>]; <span class="comment">// 访问</span></div></pre></td></tr></table></figure>
-<h2 id="关卡"><a href="#关卡" class="headerlink" title="关卡"></a>关卡</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战一</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span> <span class="string">"undefined"</span>);  <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span> <span class="literal">null</span>);         <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战二</span></div><div class="line"><span class="keyword">var</span> message = <span class="string">"some string"</span>;</div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span> massage);    <span class="comment">// ???</span></div><div class="line">message = <span class="number">10000</span>;</div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span> message);    <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战三</span></div><div class="line"><span class="keyword">var</span> a;</div><div class="line"><span class="keyword">var</span> b = <span class="literal">null</span>;</div><div class="line"><span class="keyword">var</span> c = &#123;&#125;;</div><div class="line"><span class="keyword">if</span>(a &amp;&amp; b &amp;&amp; c)&#123;</div><div class="line">    <span class="built_in">console</span>.log(<span class="string">"true."</span>);       <span class="comment">// ???</span></div><div class="line">&#125;<span class="keyword">else</span>&#123;</div><div class="line">    <span class="built_in">console</span>.log(<span class="string">"false."</span>);      <span class="comment">// ???</span></div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战四</span></div><div class="line"><span class="built_in">console</span>.log(<span class="keyword">typeof</span> (<span class="number">0</span> / <span class="number">0</span>));    <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(<span class="number">023</span> + <span class="number">123</span>);         <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战五</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">Number</span>(<span class="string">"1234S"</span>));   <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(<span class="built_in">parseInt</span>(<span class="string">"1234S"</span>)); <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战六</span></div><div class="line"><span class="built_in">console</span>.log(<span class="number">3.14E-7</span> === <span class="number">0.000000314</span>);   <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(<span class="number">0.1</span> + <span class="number">0.6</span> === <span class="number">0.7</span>); <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(<span class="number">0.1</span> + <span class="number">0.7</span> === <span class="number">0.8</span>); <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(<span class="literal">NaN</span> === <span class="literal">NaN</span>);       <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战七</span></div><div class="line"><span class="built_in">console</span>.log(<span class="string">"\right\now"</span>);          <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(<span class="string">"\right\now"</span>.length);   <span class="comment">// ???</span></div><div class="line"><span class="built_in">console</span>.log(<span class="number">010.</span>toString(<span class="number">2</span>));       <span class="comment">// ???</span></div></pre></td></tr></table></figure>
-<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 挑战八</span></div><div class="line"><span class="comment">// 1、为 person、wife、child 对象新增 weight 属性，数值分别为 62、36、15。</span></div><div class="line"><span class="comment">// 2、为 person 对象新增二胎 child2 子对象，name 为 emma，其他属性自行发挥。</span></div><div class="line"><span class="keyword">var</span> person = &#123;</div><div class="line">    <span class="attr">name</span>: <span class="string">"stone"</span>,</div><div class="line">    <span class="attr">age</span>: <span class="number">30</span>,</div><div class="line">    <span class="attr">wife</span>: &#123;</div><div class="line">        <span class="attr">name</span>: <span class="string">"sohpie"</span>,</div><div class="line">        <span class="attr">age</span>: <span class="number">30</span></div><div class="line">    &#125;,</div><div class="line">    <span class="attr">child</span>:&#123;</div><div class="line">        <span class="attr">name</span>: <span class="string">"tommy"</span>,</div><div class="line">        <span class="attr">age</span>: <span class="number">3</span></div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<blockquote>
-<p>挑战九，深度阅读下面两篇文章，提出你的疑问。</p>
-<p>「JavaScript 检测原始值、引用值、属性」<br><a href="http://shijiajie.com/2016/06/20/javascript-maintainable-javascript-validate1/">http://shijiajie.com/2016/06/20/javascript-maintainable-javascript-validate1/</a></p>
-<p>「JavaScript 检测之 basevalidate.js」<br><a href="http://shijiajie.com/2016/06/25/javascript-maintainable-javascript-basevalidatejs/">http://shijiajie.com/2016/06/25/javascript-maintainable-javascript-basevalidatejs/</a></p>
-</blockquote>
-<h2 id="更多"><a href="#更多" class="headerlink" title="更多"></a>更多</h2><blockquote>
-<p>关注微信公众号「劼哥舍」回复「答案」，获取关卡详解。<br>关注 <a href="https://github.com/stone0090/javascript-lessons" target="_blank" rel="external">https://github.com/stone0090/javascript-lessons</a>，获取最新动态。</p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;当程序需要将值保存起来以备将来使用时，便将其赋值给一个变量，值的类型称作数据类型。&lt;/p&gt;
-&lt;h2 id=&quot;变量&quot;&gt;&lt;a href=&quot;#变量&quot; class=&quot;headerlink&quot; title=&quot;变量&quot;&gt;&lt;/a&gt;变量&lt;/h2&gt;&lt;p&gt;JavaScript 的变量是松散类型的，所谓松散类型就是可以用来保存任何类型的数据。换句话说，每个变量仅仅是一个用于保存值的占位符而已。定义变量时要使用关键字 &lt;code&gt;var&lt;/code&gt; 来声明的，如下所示：&lt;/p&gt;
-&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; message;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;这行代码定义了一个名为 &lt;code&gt;message&lt;/code&gt; 的变量，该变量可以用来保存任何值（像这样未经过初始化的变量，会保存一个特殊的值 &lt;code&gt;undefined&lt;/code&gt;）。JavaScript 也支持直接初始化变量，因此在定义变量的同时就可以设置变量的值，如下所示：&lt;/p&gt;
-&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; message = &lt;span class=&quot;string&quot;&gt;&quot;hello&quot;&lt;/span&gt;;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;此时，变量 &lt;code&gt;message&lt;/code&gt; 中保存了一个字符串值 &lt;code&gt;&amp;quot;hello&amp;quot;&lt;/code&gt;。像这样初始化变量并不会把它标记为字符串类型，因此，可以在修改变量值的同时修改值的类型。如下所示：&lt;/p&gt;
-&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; message = &lt;span class=&quot;string&quot;&gt;&quot;hello&quot;&lt;/span&gt;;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;message = &lt;span class=&quot;number&quot;&gt;100&lt;/span&gt;;           &lt;span class=&quot;comment&quot;&gt;// 有效的语句，不好的写法&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;在这个例子中，变量 &lt;code&gt;message&lt;/code&gt; 一开始保存了一个字符串值 &lt;code&gt;&amp;quot;hello&amp;quot;&lt;/code&gt;，然后该值又被一个数字值100取代。虽然我们不建议修改变量所保存值的类型，但这种操作在 JavaScript 中完全有效。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="技术" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-      <category term="JavaScript" scheme="http://shijiajie.com/categories/%E6%8A%80%E6%9C%AF/JavaScript/"/>
-    
-    
-      <category term="JavaScript" scheme="http://shijiajie.com/tags/JavaScript/"/>
-    
-      <category term="《JavaScript 闯关记》" scheme="http://shijiajie.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
+      <category term="《JavaScript 闯关记》" scheme="http://shisb.com/tags/%E3%80%8AJavaScript-%E9%97%AF%E5%85%B3%E8%AE%B0%E3%80%8B/"/>
     
   </entry>
   
