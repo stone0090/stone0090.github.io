@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shisb.com/"/>
-  <updated>2017-08-30T14:31:47.000Z</updated>
+  <updated>2017-08-31T14:25:01.000Z</updated>
   <id>http://shisb.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://shisb.com/2017/07/25/wechat-url-003/"/>
     <id>http://shisb.com/2017/07/25/wechat-url-003/</id>
     <published>2017-07-25T15:00:00.000Z</published>
-    <updated>2017-08-30T14:31:47.000Z</updated>
+    <updated>2017-08-31T14:25:01.000Z</updated>
     
     <content type="html"><![CDATA[<p>读完本文约 3 分钟。</p>
 <p>我加入阿里影业 3 个月，成功转为正式员工。新的开始，leader 给我新的要求，让我给组里的同学们带带节奏，帮助大家提高技术水平。</p>
@@ -38,7 +38,9 @@
     
     </summary>
     
-      <category term=".NET" scheme="http://shisb.com/categories/NET/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term=".NET" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/NET/"/>
     
     
       <category term="微信公众号" scheme="http://shisb.com/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
@@ -52,7 +54,7 @@
     <link href="http://shisb.com/2017/06/24/wechat-url-002/"/>
     <id>http://shisb.com/2017/06/24/wechat-url-002/</id>
     <published>2017-06-24T15:00:00.000Z</published>
-    <updated>2017-08-30T14:31:38.000Z</updated>
+    <updated>2017-08-31T14:24:57.000Z</updated>
     
     <content type="html"><![CDATA[<p>读完本文需要 3 分钟。</p>
 <p>安逸舒适是一种生活态度，挑战自己是另一种生活态度，我躁动不安的性格注定会选第二条路。突破舒适区，才有可能改变，能不能变得好，就交由给老天爷来决定。</p>
@@ -72,7 +74,9 @@
     
     </summary>
     
-      <category term=".NET" scheme="http://shisb.com/categories/NET/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term=".NET" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/NET/"/>
     
     
       <category term="微信公众号" scheme="http://shisb.com/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
@@ -88,7 +92,7 @@
     <link href="http://shisb.com/2017/05/01/wechat-url-001/"/>
     <id>http://shisb.com/2017/05/01/wechat-url-001/</id>
     <published>2017-05-01T15:00:00.000Z</published>
-    <updated>2017-08-30T14:31:45.000Z</updated>
+    <updated>2017-08-31T14:24:53.000Z</updated>
     
     <content type="html"><![CDATA[<p>读完本文需要 3 分钟。</p>
 <p>首先，跟大家说声抱歉，年后实在是太忙，带娃、录视频、换工作，大堆事情挤在一起，一不小心就断更了 4 个月，实在是对不起一直以来支持我的朋友们。</p>
@@ -106,7 +110,9 @@
     
     </summary>
     
-      <category term=".NET" scheme="http://shisb.com/categories/NET/"/>
+      <category term="技术" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term=".NET" scheme="http://shisb.com/categories/%E6%8A%80%E6%9C%AF/NET/"/>
     
     
       <category term="微信公众号" scheme="http://shisb.com/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
