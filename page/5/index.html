@@ -1,4 +1,115 @@
-<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description" content="劼哥舍"><title>劼哥舍(＞﹏＜) | 越简单越快乐，越努力越幸运...</title><link rel="stylesheet" type="text/css" href="/css/style.css?v=0.0.0"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/normalize/6.0.0/normalize.min.css"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/pure/0.6.2/pure-min.css"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/pure/0.6.2/grids-responsive-min.css"><link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css"><script type="text/javascript" src="//cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script><link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png"><link rel="alternate" type="application/atom+xml" href="/atom.xml"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">劼哥舍(＞﹏＜)</h1><a id="logo" href="/.">劼哥舍(＞﹏＜)</a><p class="description">越简单越快乐，越努力越幸运...</p></div><div id="nav-menu"><a href="/." class="current"><i class="fa fa-home"> 首页</i></a><a href="/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/about/"><i class="fa fa-user"> 关于</i></a></div></div><div id="layout" class="pure-g"><div class="pure-u-1 pure-u-md-3-4"><div class="content_container"><div class="post"><h1 class="post-title"><a href="/2016/08/23/javascript-lesson-1.5-Expression&amp;Operators/">《JavaScript 闯关记》之表达式和运算符</a></h1><div class="post-meta">2016-08-23</div><div class="post-content"><h2 id="表达式"><a href="#表达式" class="headerlink" title="表达式"></a>表达式</h2><p>表达式是由数字、运算符、数字分组符号（如括号）、自由变量和约束变量等以能求得数值的有意义排列方法所得的组合。JavaScript 表达式主要有以下几种形式：</p>
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description" content="劼哥舍"><title>劼哥舍(＞﹏＜) | 越简单越快乐，越努力越幸运...</title><link rel="stylesheet" type="text/css" href="/css/style.css?v=0.0.0"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/normalize/6.0.0/normalize.min.css"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/pure/0.6.2/pure-min.css"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/pure/0.6.2/grids-responsive-min.css"><link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css"><script type="text/javascript" src="//cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script><link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png"><link rel="alternate" type="application/atom+xml" href="/atom.xml"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">劼哥舍(＞﹏＜)</h1><a id="logo" href="/.">劼哥舍(＞﹏＜)</a><p class="description">越简单越快乐，越努力越幸运...</p></div><div id="nav-menu"><a href="/." class="current"><i class="fa fa-home"> 首页</i></a><a href="/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/about/"><i class="fa fa-user"> 关于</i></a></div></div><div id="layout" class="pure-g"><div class="pure-u-1 pure-u-md-3-4"><div class="content_container"><div class="post"><h1 class="post-title"><a href="/2016/08/30/javascript-lesson-1.6-Statements/">《JavaScript 闯关记》之语句</a></h1><div class="post-meta">2016-08-30</div><div class="post-content"><p>表达式在 JavaScript 中是短语，那么语句就是整句命令。表达式用来计算出一个值，语句用来执行以使某件事发生。从本质上看，语句定义了 JavaScript 中的主要语法，语句通常使用一或多个关键字来完成给定任务。语句可以很简单，例如通知函数退出；也可以比较复杂，例如指定重复执行某个命令的次数。下表列出了 JavaScript 大部分语句的语法和用途：</p>
+<table>
+<thead>
+<tr>
+<th>语句</th>
+<th>语法</th>
+<th>用途</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>break</code></td>
+<td><code>break [label];</code></td>
+<td>退出最内层循环或者退出 <code>switch</code> 语句，又或者退出 <code>label</code> 指定的语句</td>
+</tr>
+<tr>
+<td><code>case</code></td>
+<td><code>case expression:</code></td>
+<td>在 <code>switch</code> 语句中标记一条语句</td>
+</tr>
+<tr>
+<td><code>continue</code></td>
+<td><code>continue [label];</code></td>
+<td>重新开始最内层的循环或重新开始 <code>label</code> 指定的循环</td>
+</tr>
+<tr>
+<td><code>debugger</code></td>
+<td><code>debugger;</code></td>
+<td>断点器调试</td>
+</tr>
+<tr>
+<td><code>default</code></td>
+<td><code>default;</code></td>
+<td>在 <code>switch</code> 中标记默认的语句</td>
+</tr>
+<tr>
+<td><code>do-while</code></td>
+<td><code>do statement while(expression);</code></td>
+<td><code>while</code> 循环的一种替代形式</td>
+</tr>
+<tr>
+<td><code>empty</code></td>
+<td><code>;</code></td>
+<td>什么都不做</td>
+</tr>
+<tr>
+<td><code>for</code></td>
+<td><code>for(init;expr;incr) statement</code></td>
+<td>简写的循环结构</td>
+</tr>
+<tr>
+<td><code>for-in</code></td>
+<td><code>for(var in object) statement</code></td>
+<td>遍历一个对象的属性</td>
+</tr>
+<tr>
+<td><code>function</code></td>
+<td><code>function name([param[],...])</code><br><code>{statement}</code></td>
+<td>声明一个函数</td>
+</tr>
+<tr>
+<td><code>if-else</code></td>
+<td><code>if (expression) statement1</code><br><code>[else statement2]</code></td>
+<td>执行 <code>statement1</code> 或者 <code>statement2</code></td>
+</tr>
+<tr>
+<td><code>label</code></td>
+<td><code>label:statement</code></td>
+<td>给 <code>statement</code> 指定一个名字 <code>label</code></td>
+</tr>
+<tr>
+<td><code>return</code></td>
+<td><code>return [expression];</code></td>
+<td>从函数返回一个值</td>
+</tr>
+<tr>
+<td><code>switch</code></td>
+<td><code>switch(expression){statement}</code></td>
+<td>用 <code>case</code> 或者 <code>default</code> 语句标记的多分支语句</td>
+</tr>
+<tr>
+<td><code>throw</code></td>
+<td><code>throw expression;</code></td>
+<td>抛出异常</td>
+</tr>
+<tr>
+<td><code>try</code></td>
+<td><code>try {statement}</code><br><code>[catch {handler statement}]</code><br><code>[finally {cleaup statement}]</code></td>
+<td>捕获异常</td>
+</tr>
+<tr>
+<td><code>use strict</code></td>
+<td><code>&quot;use strict&quot;</code></td>
+<td>对脚本和函数应用严格模式</td>
+</tr>
+<tr>
+<td><code>var</code></td>
+<td><code>var name=[=expr][,...];</code></td>
+<td>声明并初始化一个或多个变量</td>
+</tr>
+<tr>
+<td><code>while</code></td>
+<td><code>while(expression) statement</code></td>
+<td>基本的循环结构</td>
+</tr>
+<tr>
+<td><code>with</code></td>
+<td><code>with(object) statement</code></td>
+<td>扩展作用域链</td>
+</tr>
+</tbody>
+</table></div><p class="readmore"><a href="/2016/08/30/javascript-lesson-1.6-Statements/">阅读更多</a></p></div><div class="post"><h1 class="post-title"><a href="/2016/08/23/javascript-lesson-1.5-Expression&amp;Operators/">《JavaScript 闯关记》之表达式和运算符</a></h1><div class="post-meta">2016-08-23</div><div class="post-content"><h2 id="表达式"><a href="#表达式" class="headerlink" title="表达式"></a>表达式</h2><p>表达式是由数字、运算符、数字分组符号（如括号）、自由变量和约束变量等以能求得数值的有意义排列方法所得的组合。JavaScript 表达式主要有以下几种形式：</p>
 <ul>
 <li>原始表达式：常量、变量、保留字。</li>
 <li>对象、数组初始化表达式：<code>var obj={a:1,b:2};</code>，<code>var arr=[1,2,3];</code>。</li>
@@ -32,13 +143,4 @@
 <li>包含外部 JavaScript 文件。</li>
 </ul>
 <p>使用 <code>&lt;script&gt;</code> 元素嵌入 JavaScript 代码时，只需为 <code>&lt;script&gt;</code> 指定 <code>type</code> 属性。然后，像下面这样把 JavaScript 代码直接放在元素内部即可：</p>
-<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"text/javascript"</span>&gt;</span><span class="javascript"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">sayHello</span>(<span class="params"></span>)</span>&#123;</div><div class="line">        <span class="built_in">console</span>.log(<span class="string">"Hello!"</span>);</div><div class="line">    &#125;</div><div class="line"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div></pre></td></tr></table></figure></div><p class="readmore"><a href="/2016/07/31/javascript-lesson-1.2-FirstExploration/">阅读更多</a></p></div><div class="post"><h1 class="post-title"><a href="/2016/07/24/javascript-lesson-1.1-Introduction/">《JavaScript 闯关记》之简介</a></h1><div class="post-meta">2016-07-24</div><div class="post-content"><p>JavaScript 是面向 Web 的编程语言，绝大多数现代网站都使用了 JavaScript，并且所有的现代 Web 浏览器（电脑，手机，平板）均包含了 JavaScript 解释器。 这使得 JavaScript 能够称得上史上使用最广泛的编程语言。 JavaScript 也是前端开发工程师必须掌握的三种技能之一：描述网页内容的 HTML、描述网页样式的 CSS、以及描述网页行为的 JavaScript。</p>
-<p>JavaScript 是一门 <strong>动态的、弱类型的、面向对象的、解释型的</strong> 编程语言，非常适合面向对象和函数式的编程风格。JavaScript 的语法来自于 Java，它的一等函数（first-class function）来自于 Scheme，它的基于原型（prototype-based）的继承来自于 Self。但学习本课程不必去了解那些（Java/Scheme/Slef）语言或熟悉那些术语。</p>
-<h2 id="JavaScript-起源"><a href="#JavaScript-起源" class="headerlink" title="JavaScript 起源"></a>JavaScript 起源</h2><blockquote>
-<p>时间：1995年</p>
-<p>人物：Brendan Eich（布兰登·艾奇）</p>
-<p>背景：那个时候，绝大多数因特网用户都是用速度仅为28.8kbit/s的「猫」上网，为了完成简单的表单验证，必须把表单数据发送到服务器端才能确定用户是否没有填写某个必填域、是否输入了无效的值，每次操作需等待30秒以上才会有结果，这无疑是在慢性自杀。</p>
-<p>事件：当时走在技术革新最前沿的 Netscape 公司指派 Brendan Eich 开发一种客户端语言，用来处理这种简单的验证，它就是 JavaScript。JavaScript 原名 LiveScript，Netscape 为了搭上媒体热炒 Java 的顺风车，才把 LiveScript 改名为 JavaScript。（所以 Java 和 JavaScript 的关系，就相当于雷锋和雷峰塔的关系。）</p>
-</blockquote>
-<p>自此以后，JavaScript 逐渐成为市面上常见浏览器必备的一项特色功能。如今，JavaScript 的用途早已不再局限于简单的数据验证，而是具备了与浏览器窗口及其内容等几乎所有方面交互的能力。今天的 JavaScript 已经成为一门功能全面的编程语言，能够处理复杂的计算和交互，拥有了闭包、匿名（lambda，拉姆达）函数，甚至元编程等特性。</p>
-<p>JavaScript 从一个简单的输入验证器发展成为一门强大的編程语言，完全出乎人们的意料。应该说，它既是一门非常简单的语言，又是一门非常复杂的语言。说它简单，是因为学会使用它只需片刻功夫；而说它复杂，是因为要真正掌握它则需要数年时间。</p></div><p class="readmore"><a href="/2016/07/24/javascript-lesson-1.1-Introduction/">阅读更多</a></p></div><nav class="page-navigator"><a class="extend prev" rel="prev" href="/page/4/">上一页</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/3/">3</a><a class="page-number" href="/page/4/">4</a><span class="page-number current">5</span><a class="page-number" href="/page/6/">6</a><a class="page-number" href="/page/7/">7</a><span class="space">&hellip;</span><a class="page-number" href="/page/12/">12</a><a class="extend next" rel="next" href="/page/6/">下一页</a></nav></div></div><div class="pure-u-1-4 hidden_mid_and_down"><div id="sidebar"><div class="widget"><div class="widget-title"><i class="fa fa-external-link"> 友情链接</i></div><ul></ul><a href="https://github.com/stone0090" title="我的「GitHub」" target="_blank">我的「GitHub」</a><ul></ul><a href="http://qn.shisb.com/weixin/xiaomiquan.jpg" title="我的「小密圈」" target="_blank">我的「小密圈」</a><ul></ul><a href="http://qn.shisb.com/weixin/qrcode_for_gh_48ef95800cf5_430.jpg" title="我的「微信公众号」" target="_blank">我的「微信公众号」</a><ul></ul><a href="http://weibo.com/605494869" title="我的「微博」" target="_blank">我的「微博」</a><ul></ul><a href="https://www.zhihu.com/people/stone0090" title="我的「知乎」" target="_blank">我的「知乎」</a><ul></ul><a href="http://www.jianshu.com/u/0005893eaff9" title="我的「简书」" target="_blank">我的「简书」</a><ul></ul><a href="https://juejin.im/user/57b83a6fa633bd0066590d37" title="我的「掘金」" target="_blank">我的「掘金」</a><ul></ul><a href="http://www.cnblogs.com/shi0090" title="我的「博客园」" target="_blank">我的「博客园」</a><ul></ul><a href="http://blog.csdn.net/shi0090" title="我的「CSDN」" target="_blank">我的「CSDN」</a><ul></ul><a href="https://segmentfault.com/u/stone0090" title="我的「SegmentFault」" target="_blank">我的「SegmentFault」</a></div><div class="widget"><div class="widget-title"><i class="fa fa-folder-o"> 分类</i></div><ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/技术/">技术</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/技术/NET/">.NET</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/技术/CSS/">CSS</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/技术/DSOframer/">DSOframer</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/技术/JavaScript/">JavaScript</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/技术/算法/">算法</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/软件/">软件</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/软件/Parallels/">Parallels</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/软件/VMware/">VMware</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/随笔/">随笔</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/随笔/心情随笔/">心情随笔</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/随笔/读书笔记/">读书笔记</a></li></ul></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-star-o"> 标签</i></div><div class="tagcloud"><a href="/tags/《JavaScript-闯关记》/" style="font-size: 15px;">《JavaScript 闯关记》</a> <a href="/tags/算法/" style="font-size: 15px;">算法</a> <a href="/tags/NET/" style="font-size: 15px;">.NET</a> <a href="/tags/C/" style="font-size: 15px;">C#</a> <a href="/tags/Socket/" style="font-size: 15px;">Socket</a> <a href="/tags/断点续传/" style="font-size: 15px;">断点续传</a> <a href="/tags/ASP-NET/" style="font-size: 15px;">ASP.NET</a> <a href="/tags/Excel/" style="font-size: 15px;">Excel</a> <a href="/tags/Amaze-UI/" style="font-size: 15px;">Amaze UI</a> <a href="/tags/开源项目/" style="font-size: 15px;">开源项目</a> <a href="/tags/EasyUI/" style="font-size: 15px;">EasyUI</a> <a href="/tags/jQuery/" style="font-size: 15px;">jQuery</a> <a href="/tags/Visual-Studio/" style="font-size: 15px;">Visual Studio</a> <a href="/tags/JavaScript/" style="font-size: 15px;">JavaScript</a> <a href="/tags/DSOframer/" style="font-size: 15px;">DSOframer</a> <a href="/tags/心情随笔/" style="font-size: 15px;">心情随笔</a> <a href="/tags/CSS/" style="font-size: 15px;">CSS</a> <a href="/tags/float/" style="font-size: 15px;">float</a> <a href="/tags/position/" style="font-size: 15px;">position</a> <a href="/tags/样式布局分享/" style="font-size: 15px;">样式布局分享</a> <a href="/tags/Hexo/" style="font-size: 15px;">Hexo</a> <a href="/tags/landscape-plus/" style="font-size: 15px;">landscape-plus</a> <a href="/tags/frozen-js/" style="font-size: 15px;">frozen.js</a> <a href="/tags/zepto/" style="font-size: 15px;">zepto</a> <a href="/tags/编程珠玑/" style="font-size: 15px;">编程珠玑</a> <a href="/tags/原型链/" style="font-size: 15px;">原型链</a> <a href="/tags/prototype/" style="font-size: 15px;">prototype</a> <a href="/tags/《编写可维护的JavaScript》/" style="font-size: 15px;">《编写可维护的JavaScript》</a> <a href="/tags/basevalidate-js/" style="font-size: 15px;">basevalidate.js</a> <a href="/tags/微信公众号/" style="font-size: 15px;">微信公众号</a> <a href="/tags/tab-js/" style="font-size: 15px;">tab.js</a> <a href="/tags/DOC转图片/" style="font-size: 15px;">DOC转图片</a> <a href="/tags/Node-js/" style="font-size: 15px;">Node.js</a> <a href="/tags/MicroBlog/" style="font-size: 15px;">MicroBlog</a> <a href="/tags/Node-js开发指南/" style="font-size: 15px;">Node.js开发指南</a> <a href="/tags/PDF转图片/" style="font-size: 15px;">PDF转图片</a> <a href="/tags/读书笔记/" style="font-size: 15px;">读书笔记</a> <a href="/tags/时间管理/" style="font-size: 15px;">时间管理</a> <a href="/tags/专栏精粹/" style="font-size: 15px;">专栏精粹</a> <a href="/tags/Mac/" style="font-size: 15px;">Mac</a> <a href="/tags/虚拟机/" style="font-size: 15px;">虚拟机</a> <a href="/tags/Parallels/" style="font-size: 15px;">Parallels</a> <a href="/tags/Windows-10/" style="font-size: 15px;">Windows 10</a> <a href="/tags/Boot-Camp/" style="font-size: 15px;">Boot Camp</a> <a href="/tags/VMware/" style="font-size: 15px;">VMware</a> <a href="/tags/微信小程序/" style="font-size: 15px;">微信小程序</a> <a href="/tags/阿里影业/" style="font-size: 15px;">阿里影业</a> <a href="/tags/面试/" style="font-size: 15px;">面试</a></div></div></div></div><div class="pure-u-1 pure-u-md-3-4"><div id="footer">© <a href="/." rel="nofollow">劼哥舍(＞﹏＜).</a> Powered by<a rel="nofollow" target="_blank" href="https://hexo.io"> Hexo.</a><a rel="nofollow" target="_blank" href="https://github.com/tufu9441/maupassant-hexo"> Theme</a> by<a rel="nofollow" target="_blank" href="https://github.com/pagecho"> Cho.</a><a rel="nofollow" target="_blank" href="http://www.miitbeian.gov.cn/"> 粤ICP备15013245号-2.</a></div></div></div><a id="rocket" href="#top" class="show"></a><script type="text/javascript" src="/js/totop.js?v=0.0.0" async></script><script type="text/javascript" src="//cdn.bootcss.com/fancybox/3.0.47/jquery.fancybox.min.js" async></script><script type="text/javascript" src="/js/fancybox.js?v=0.0.0" async></script><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/fancybox/3.0.47/jquery.fancybox.min.css"><script type="text/javascript" src="/js/codeblock-resizer.js?v=0.0.0"></script><script type="text/javascript" src="/js/smartresize.js?v=0.0.0"></script></div></body></html>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"text/javascript"</span>&gt;</span><span class="javascript"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">sayHello</span>(<span class="params"></span>)</span>&#123;</div><div class="line">        <span class="built_in">console</span>.log(<span class="string">"Hello!"</span>);</div><div class="line">    &#125;</div><div class="line"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div></pre></td></tr></table></figure></div><p class="readmore"><a href="/2016/07/31/javascript-lesson-1.2-FirstExploration/">阅读更多</a></p></div><nav class="page-navigator"><a class="extend prev" rel="prev" href="/page/4/">上一页</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/3/">3</a><a class="page-number" href="/page/4/">4</a><span class="page-number current">5</span><a class="page-number" href="/page/6/">6</a><a class="page-number" href="/page/7/">7</a><span class="space">&hellip;</span><a class="page-number" href="/page/12/">12</a><a class="extend next" rel="next" href="/page/6/">下一页</a></nav></div></div><div class="pure-u-1-4 hidden_mid_and_down"><div id="sidebar"><div class="widget"><div class="widget-title"><i class="fa fa-external-link"> 友情链接</i></div><ul></ul><a href="https://github.com/stone0090" title="我的「GitHub」" target="_blank">我的「GitHub」</a><ul></ul><a href="http://qn.shisb.com/weixin/xiaomiquan.jpg" title="我的「小密圈」" target="_blank">我的「小密圈」</a><ul></ul><a href="http://qn.shisb.com/weixin/qrcode_for_gh_48ef95800cf5_430.jpg" title="我的「微信公众号」" target="_blank">我的「微信公众号」</a><ul></ul><a href="http://weibo.com/605494869" title="我的「微博」" target="_blank">我的「微博」</a><ul></ul><a href="https://www.zhihu.com/people/stone0090" title="我的「知乎」" target="_blank">我的「知乎」</a><ul></ul><a href="http://www.jianshu.com/u/0005893eaff9" title="我的「简书」" target="_blank">我的「简书」</a><ul></ul><a href="https://juejin.im/user/57b83a6fa633bd0066590d37" title="我的「掘金」" target="_blank">我的「掘金」</a><ul></ul><a href="http://www.cnblogs.com/shi0090" title="我的「博客园」" target="_blank">我的「博客园」</a><ul></ul><a href="http://blog.csdn.net/shi0090" title="我的「CSDN」" target="_blank">我的「CSDN」</a><ul></ul><a href="https://segmentfault.com/u/stone0090" title="我的「SegmentFault」" target="_blank">我的「SegmentFault」</a></div><div class="widget"><div class="widget-title"><i class="fa fa-folder-o"> 分类</i></div><ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/技术/">技术</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/技术/NET/">.NET</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/技术/CSS/">CSS</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/技术/DSOframer/">DSOframer</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/技术/JavaScript/">JavaScript</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/技术/算法/">算法</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/软件/">软件</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/软件/Parallels/">Parallels</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/软件/VMware/">VMware</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/随笔/">随笔</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/随笔/心情随笔/">心情随笔</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/随笔/读书笔记/">读书笔记</a></li></ul></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-star-o"> 标签</i></div><div class="tagcloud"><a href="/tags/原型链/" style="font-size: 15px;">原型链</a> <a href="/tags/算法/" style="font-size: 15px;">算法</a> <a href="/tags/ASP-NET/" style="font-size: 15px;">ASP.NET</a> <a href="/tags/NET/" style="font-size: 15px;">.NET</a> <a href="/tags/Excel/" style="font-size: 15px;">Excel</a> <a href="/tags/C/" style="font-size: 15px;">C#</a> <a href="/tags/Socket/" style="font-size: 15px;">Socket</a> <a href="/tags/断点续传/" style="font-size: 15px;">断点续传</a> <a href="/tags/Amaze-UI/" style="font-size: 15px;">Amaze UI</a> <a href="/tags/开源项目/" style="font-size: 15px;">开源项目</a> <a href="/tags/Visual-Studio/" style="font-size: 15px;">Visual Studio</a> <a href="/tags/JavaScript/" style="font-size: 15px;">JavaScript</a> <a href="/tags/EasyUI/" style="font-size: 15px;">EasyUI</a> <a href="/tags/jQuery/" style="font-size: 15px;">jQuery</a> <a href="/tags/DSOframer/" style="font-size: 15px;">DSOframer</a> <a href="/tags/心情随笔/" style="font-size: 15px;">心情随笔</a> <a href="/tags/CSS/" style="font-size: 15px;">CSS</a> <a href="/tags/float/" style="font-size: 15px;">float</a> <a href="/tags/position/" style="font-size: 15px;">position</a> <a href="/tags/样式布局分享/" style="font-size: 15px;">样式布局分享</a> <a href="/tags/frozen-js/" style="font-size: 15px;">frozen.js</a> <a href="/tags/zepto/" style="font-size: 15px;">zepto</a> <a href="/tags/Hexo/" style="font-size: 15px;">Hexo</a> <a href="/tags/landscape-plus/" style="font-size: 15px;">landscape-plus</a> <a href="/tags/编程珠玑/" style="font-size: 15px;">编程珠玑</a> <a href="/tags/prototype/" style="font-size: 15px;">prototype</a> <a href="/tags/《JavaScript-闯关记》/" style="font-size: 15px;">《JavaScript 闯关记》</a> <a href="/tags/《编写可维护的JavaScript》/" style="font-size: 15px;">《编写可维护的JavaScript》</a> <a href="/tags/basevalidate-js/" style="font-size: 15px;">basevalidate.js</a> <a href="/tags/微信公众号/" style="font-size: 15px;">微信公众号</a> <a href="/tags/tab-js/" style="font-size: 15px;">tab.js</a> <a href="/tags/PDF转图片/" style="font-size: 15px;">PDF转图片</a> <a href="/tags/DOC转图片/" style="font-size: 15px;">DOC转图片</a> <a href="/tags/Node-js/" style="font-size: 15px;">Node.js</a> <a href="/tags/MicroBlog/" style="font-size: 15px;">MicroBlog</a> <a href="/tags/Node-js开发指南/" style="font-size: 15px;">Node.js开发指南</a> <a href="/tags/读书笔记/" style="font-size: 15px;">读书笔记</a> <a href="/tags/时间管理/" style="font-size: 15px;">时间管理</a> <a href="/tags/Windows-10/" style="font-size: 15px;">Windows 10</a> <a href="/tags/Boot-Camp/" style="font-size: 15px;">Boot Camp</a> <a href="/tags/Mac/" style="font-size: 15px;">Mac</a> <a href="/tags/虚拟机/" style="font-size: 15px;">虚拟机</a> <a href="/tags/Parallels/" style="font-size: 15px;">Parallels</a> <a href="/tags/专栏精粹/" style="font-size: 15px;">专栏精粹</a> <a href="/tags/VMware/" style="font-size: 15px;">VMware</a> <a href="/tags/阿里影业/" style="font-size: 15px;">阿里影业</a> <a href="/tags/面试/" style="font-size: 15px;">面试</a> <a href="/tags/微信小程序/" style="font-size: 15px;">微信小程序</a></div></div></div></div><div class="pure-u-1 pure-u-md-3-4"><div id="footer">© <a href="/." rel="nofollow">劼哥舍(＞﹏＜).</a> Powered by<a rel="nofollow" target="_blank" href="https://hexo.io"> Hexo.</a><a rel="nofollow" target="_blank" href="https://github.com/tufu9441/maupassant-hexo"> Theme</a> by<a rel="nofollow" target="_blank" href="https://github.com/pagecho"> Cho.</a><a rel="nofollow" target="_blank" href="http://www.miitbeian.gov.cn/"> 粤ICP备15013245号-2.</a></div></div></div><a id="rocket" href="#top" class="show"></a><script type="text/javascript" src="/js/totop.js?v=0.0.0" async></script><script type="text/javascript" src="//cdn.bootcss.com/fancybox/3.0.47/jquery.fancybox.min.js" async></script><script type="text/javascript" src="/js/fancybox.js?v=0.0.0" async></script><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/fancybox/3.0.47/jquery.fancybox.min.css"><script type="text/javascript" src="/js/codeblock-resizer.js?v=0.0.0"></script><script type="text/javascript" src="/js/smartresize.js?v=0.0.0"></script></div></body></html>
